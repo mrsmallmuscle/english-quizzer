@@ -1,0 +1,450 @@
+[
+  {
+    "id": 1,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "A rhino is ________ than a monkey.",
+    "options": ["big", "bigger", "more big", "biggest"],
+    "correct": 1,
+    "explanation": "So sánh hơn của tính từ ngắn: thêm '-er'. 'big' → 'bigger' (gấp đôi phụ âm cuối vì trước là nguyên âm đơn)."
+  },
+  {
+    "id": 2,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "Is a crocodile longer than a snake?",
+    "options": ["Yes, it is.", "Yes, they are.", "Yes, she is.", "No, it isn't."],
+    "correct": 0,
+    "explanation": "'A crocodile' là danh từ số ít → trả lời bằng 'Yes, it is.'"
+  },
+  {
+    "id": 3,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "________ the elephants drinking water? Yes, they are.",
+    "options": ["Is", "Am", "Are", "Do"],
+    "correct": 2,
+    "explanation": "'The elephants' là số nhiều → dùng 'Are' trong thì hiện tại tiếp diễn."
+  },
+  {
+    "id": 4,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "multiple_choice",
+    "question": "What's the weather ________? It's windy.",
+    "options": ["is", "like", "likes", "as"],
+    "correct": 1,
+    "explanation": "Câu hỏi về thời tiết: 'What's the weather like?' là cấu trúc cố định."
+  },
+  {
+    "id": 5,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "multiple_choice",
+    "question": "It's snowing. ________ your coat and boots.",
+    "options": ["Don't", "Wear", "Bring", "Take"],
+    "correct": 1,
+    "explanation": "Câu mệnh lệnh khuyên mặc đồ ấm khi trời tuyết: 'Wear your coat and boots.'"
+  },
+  {
+    "id": 6,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "multiple_choice",
+    "question": "________ forget your umbrella. It's raining!",
+    "options": ["No", "Not", "Don't", "Doesn't"],
+    "correct": 2,
+    "explanation": "Câu mệnh lệnh phủ định: 'Don't + động từ nguyên thể'. → 'Don't forget...'"
+  },
+  {
+    "id": 7,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "How does she get to school? She goes ________ motorcycle.",
+    "options": ["on", "in", "by", "at"],
+    "correct": 2,
+    "explanation": "Phương tiện giao thông dùng giới từ 'by': by motorcycle, by bus, by car..."
+  },
+  {
+    "id": 8,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "When ________ the bus come? It comes at half past seven.",
+    "options": ["do", "does", "is", "are"],
+    "correct": 1,
+    "explanation": "'The bus' là số ít → dùng 'does' trong câu hỏi hiện tại đơn."
+  },
+  {
+    "id": 9,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "There are four ________ at the bus stop.",
+    "options": ["person", "peoples", "people", "persons"],
+    "correct": 2,
+    "explanation": "'People' là dạng số nhiều không quy tắc của 'person'. Không thêm 's'."
+  },
+  {
+    "id": 10,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "There aren't any ________ in my bag.",
+    "options": ["scarfs", "scarves", "scarvs", "scarfes"],
+    "correct": 1,
+    "explanation": "Số nhiều của 'scarf' là 'scarves' (đuôi -f → -ves, giống: leaf/leaves, knife/knives)."
+  },
+  {
+    "id": 11,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "I ________ very loud when I was little. Now I'm quiet.",
+    "options": ["are", "were", "was", "am"],
+    "correct": 2,
+    "explanation": "'I' đi với 'was' (quá khứ của 'am/is'). 'Were' dùng với you/we/they."
+  },
+  {
+    "id": 12,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "________ your friends kind at school today?",
+    "options": ["Was", "Were", "Are", "Is"],
+    "correct": 1,
+    "explanation": "'Your friends' là số nhiều → dùng 'Were' (quá khứ). Câu hỏi trong quá khứ."
+  },
+  {
+    "id": 13,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "When my sister was little, she ________ naughty. She was very good.",
+    "options": ["wasn't", "weren't", "isn't", "don't"],
+    "correct": 0,
+    "explanation": "'She' là ngôi 3 số ít → phủ định quá khứ dùng 'wasn't' (was not)."
+  },
+  {
+    "id": 14,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "Before, the story ________ scary. Now it's silly.",
+    "options": ["were", "was", "is", "are"],
+    "correct": 1,
+    "explanation": "'The story' là số ít → dùng 'was' (quá khứ đơn của 'is')."
+  },
+  {
+    "id": 15,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "We ________ dirty in art class. We ________ clean at all!",
+    "options": ["was / wasn't", "were / weren't", "were / wasn't", "was / weren't"],
+    "correct": 1,
+    "explanation": "'We' là số nhiều → dùng 'were' và 'weren't' (were not)."
+  },
+  {
+    "id": 16,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "A giraffe is ________ than a hippo.",
+    "word_bank": ["taller", "faster", "shorter", "slower"],
+    "correct": "taller",
+    "explanation": "Giraffe (hươu cao cổ) cao hơn hippo (hà mã). 'tall' → 'taller'."
+  },
+  {
+    "id": 17,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "Can a cheetah run ________ than a lion? Yes, it can.",
+    "word_bank": ["faster", "taller", "bigger", "slower"],
+    "correct": "faster",
+    "explanation": "Cheetah (báo săn) là động vật chạy nhanh nhất thế giới. 'fast' → 'faster'."
+  },
+  {
+    "id": 18,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "Look! The monkeys ________ eating bananas right now.",
+    "word_bank": ["are", "is", "am", "were"],
+    "correct": "are",
+    "explanation": "'The monkeys' là số nhiều → dùng 'are' trong thì hiện tại tiếp diễn."
+  },
+  {
+    "id": 19,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "fill_in_blank",
+    "question": "It's very cold today. ________ forget your gloves!",
+    "word_bank": ["Don't", "Wear", "Not", "Do"],
+    "correct": "Don't",
+    "explanation": "Câu mệnh lệnh phủ định: 'Don't + verb'. Khuyên đừng quên đồ ấm."
+  },
+  {
+    "id": 20,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "fill_in_blank",
+    "question": "I get to school ________ bus every day.",
+    "word_bank": ["by", "on", "in", "at"],
+    "correct": "by",
+    "explanation": "Phương tiện giao thông dùng 'by': by bus, by car, by bike..."
+  },
+  {
+    "id": 21,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "fill_in_blank",
+    "question": "There are ten ________ in the swimming pool.",
+    "word_bank": ["children", "childs", "peoples", "person"],
+    "correct": "children",
+    "explanation": "Số nhiều không quy tắc của 'child' là 'children'."
+  },
+  {
+    "id": 22,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "fill_in_blank",
+    "question": "My classmates ________ good today. They were naughty!",
+    "word_bank": ["weren't", "wasn't", "aren't", "isn't"],
+    "correct": "weren't",
+    "explanation": "'My classmates' là số nhiều → dùng 'weren't' (were not) trong quá khứ."
+  },
+  {
+    "id": 23,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": ["slower", "a hippo", "than", "is", "a tiger"],
+    "correct": ["a hippo", "is", "slower", "than", "a tiger"],
+    "explanation": "Cấu trúc: Subject + is/are + adj-er + than + Object. → 'A hippo is slower than a tiger.'"
+  },
+  {
+    "id": 24,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": ["the lions", "are", "now", "sleeping"],
+    "correct": ["the lions", "are", "sleeping", "now"],
+    "explanation": "Thì hiện tại tiếp diễn: Subject + are + V-ing. 'now' thường đặt cuối câu."
+  },
+  {
+    "id": 25,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": ["today", "like", "weather", "what's", "the"],
+    "correct": ["what's", "the", "weather", "like", "today"],
+    "explanation": "Câu hỏi về thời tiết: 'What's the weather like today?' là cấu trúc cố định."
+  },
+  {
+    "id": 26,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": ["umbrella", "forget", "don't", "your"],
+    "correct": ["don't", "forget", "your", "umbrella"],
+    "explanation": "Câu mệnh lệnh phủ định: 'Don't + verb + object.' → 'Don't forget your umbrella.'"
+  },
+  {
+    "id": 27,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": ["does", "how", "get", "she", "school", "to"],
+    "correct": ["how", "does", "she", "get", "to", "school"],
+    "explanation": "Câu hỏi: 'How does she get to school?' → How + does + subject + verb."
+  },
+  {
+    "id": 28,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": ["the", "come", "when", "bus", "does"],
+    "correct": ["when", "does", "the", "bus", "come"],
+    "explanation": "Câu hỏi: 'When does the bus come?' → When + does + subject + verb."
+  },
+  {
+    "id": 29,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": ["little", "I", "was", "I", "when", "naughty", "wasn't"],
+    "correct": ["when", "I", "was", "little", "I", "wasn't", "naughty"],
+    "explanation": "Mệnh đề thời gian: 'When I was little, I wasn't naughty.' → When clause + main clause."
+  },
+  {
+    "id": 30,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": ["class", "were", "art", "we", "in", "dirty"],
+    "correct": ["we", "were", "dirty", "in", "art", "class"],
+    "explanation": "Câu khẳng định quá khứ: 'We were dirty in art class.' → Subject + were + adj + place."
+  },
+  {
+    "id": 31,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "error_correction",
+    "question": "A snake is more long than a monkey.",
+    "options": [
+      "more long → longer",
+      "snake → snakes",
+      "is → are",
+      "than → then"
+    ],
+    "correct": 0,
+    "explanation": "'long' là tính từ ngắn (1 âm tiết) → so sánh hơn dùng '-er': 'longer', không dùng 'more long'."
+  },
+  {
+    "id": 32,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "error_correction",
+    "question": "Is the giraffe eating? Yes, they are.",
+    "options": [
+      "they → it",
+      "Is → Are",
+      "eating → eat",
+      "giraffe → giraffes"
+    ],
+    "correct": 0,
+    "explanation": "'The giraffe' là số ít → trả lời bằng 'it', không phải 'they'. → 'Yes, it is.'"
+  },
+  {
+    "id": 33,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "error_correction",
+    "question": "It's cloud and cold today.",
+    "options": [
+      "cloud → cloudy",
+      "cold → colder",
+      "It's → Its",
+      "today → now"
+    ],
+    "correct": 0,
+    "explanation": "Tính từ mô tả thời tiết phải thêm '-y': cloud → cloudy, sun → sunny, wind → windy."
+  },
+  {
+    "id": 34,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "error_correction",
+    "question": "Wear not your shoes inside!",
+    "options": [
+      "Wear not → Don't wear",
+      "shoes → shoe",
+      "inside → outside",
+      "your → you"
+    ],
+    "correct": 0,
+    "explanation": "Câu mệnh lệnh phủ định: 'Don't + verb', không dùng 'Verb + not'. → 'Don't wear your shoes inside!'"
+  },
+  {
+    "id": 35,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "error_correction",
+    "question": "I go to school on bus every day.",
+    "options": [
+      "on → by",
+      "go → goes",
+      "school → the school",
+      "every → each"
+    ],
+    "correct": 0,
+    "explanation": "Phương tiện giao thông dùng 'by', không dùng 'on': by bus, by car, by train."
+  },
+  {
+    "id": 36,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "error_correction",
+    "question": "There are three childs on the bus.",
+    "options": [
+      "childs → children",
+      "are → is",
+      "three → third",
+      "on → in"
+    ],
+    "correct": 0,
+    "explanation": "Số nhiều không quy tắc: child → children (không phải 'childs')."
+  },
+  {
+    "id": 37,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "error_correction",
+    "question": "When I was little, I were very smart.",
+    "options": [
+      "were → was",
+      "was → were",
+      "little → small",
+      "smart → smarter"
+    ],
+    "correct": 0,
+    "explanation": "'I' luôn đi với 'was' (không phải 'were') trong thì quá khứ đơn."
+  },
+  {
+    "id": 38,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "error_correction",
+    "question": "Was your friends naughty at school?",
+    "options": [
+      "Was → Were",
+      "naughty → naughtier",
+      "your → you",
+      "at → in"
+    ],
+    "correct": 0,
+    "explanation": "'Your friends' là số nhiều → dùng 'Were' trong câu hỏi quá khứ, không dùng 'Was'."
+  },
+  {
+    "id": 39,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      { "word": "daughter", "meaning": "con gái" },
+      { "word": "son",      "meaning": "con trai" },
+      { "word": "parents",  "meaning": "bố mẹ" },
+      { "word": "grandparents", "meaning": "ông bà" }
+    ],
+    "explanation": "Từ vựng gia đình: daughter=con gái, son=con trai, parents=bố mẹ, grandparents=ông bà."
+  },
+  {
+    "id": 40,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      { "word": "bigger",  "meaning": "to hơn" },
+      { "word": "longer",  "meaning": "dài hơn" },
+      { "word": "faster",  "meaning": "nhanh hơn" },
+      { "word": "taller",  "meaning": "cao hơn" }
+    ],
+    "explanation": "Các tính từ so sánh hơn: big→bigger, long→longer, fast→faster, tall→taller."
+  }
+]

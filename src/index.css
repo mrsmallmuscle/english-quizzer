@@ -1,0 +1,160 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * { -webkit-tap-highlight-color: transparent; }
+  body {
+    @apply font-display bg-slate-50 text-gray-800 min-h-screen;
+    font-family: 'Nunito', sans-serif;
+  }
+}
+
+@layer components {
+
+  /* ── Layout ── */
+  .page-wrapper {
+    @apply max-w-lg mx-auto min-h-screen;
+  }
+
+  /* ── Home ── */
+  .home-hero {
+    @apply text-center pt-10 pb-6 px-4;
+  }
+  .hero-icon  { @apply text-6xl mb-3; }
+  .hero-title { @apply text-3xl font-black text-blue-700 tracking-tight; }
+  .hero-sub   { @apply text-gray-500 text-sm mt-1; }
+
+  .card { @apply bg-white rounded-3xl shadow-md mx-4 p-5 space-y-5; }
+
+  .form-group { @apply space-y-2; }
+  .form-label { @apply text-sm font-bold text-gray-600 block; }
+
+  .filter-chip {
+    @apply px-4 py-2 rounded-full border-2 border-gray-200 text-sm font-semibold
+           text-gray-600 bg-white transition-all duration-150 active:scale-95;
+  }
+  .filter-chip.active {
+    @apply bg-blue-600 border-blue-600 text-white shadow-md;
+  }
+
+  .pool-info {
+    @apply flex items-center gap-2 bg-blue-50 rounded-2xl px-4 py-3 text-sm text-blue-700;
+  }
+
+  .btn-start {
+    @apply bg-gradient-to-r from-blue-600 to-blue-500 text-white font-black
+           text-lg py-4 rounded-2xl shadow-lg active:scale-95 transition-all
+           disabled:opacity-40 disabled:cursor-not-allowed;
+  }
+
+  /* ── Progress ── */
+  .progress-bar-track { @apply w-full h-2 bg-gray-200; }
+  .progress-bar-fill  {
+    @apply h-2 bg-gradient-to-r from-blue-500 to-cyan-400 transition-all duration-500;
+  }
+
+  /* ── Quiz Header ── */
+  .quiz-header {
+    @apply flex items-center justify-between px-4 py-3;
+  }
+  .btn-back {
+    @apply text-sm font-bold text-gray-500 px-3 py-1.5 rounded-xl bg-gray-100
+           active:bg-gray-200 transition-all;
+  }
+  .quiz-score-live {
+    @apply text-sm font-bold text-green-600 bg-green-50 px-3 py-1.5 rounded-xl;
+  }
+
+  /* ── Quiz Card ── */
+  .quiz-card  { @apply bg-white rounded-3xl shadow-md p-5; }
+  .badge-type {
+    @apply text-xs font-bold px-3 py-1 rounded-full bg-blue-100 text-blue-700;
+  }
+
+  /* ── Option Buttons ── */
+  .option-btn {
+    @apply w-full flex items-center gap-3 px-4 py-3.5 rounded-2xl border-2
+           border-gray-200 bg-white text-sm font-semibold text-gray-700
+           transition-all duration-150 active:scale-95 disabled:cursor-default;
+  }
+  .option-btn .label {
+    @apply w-7 h-7 flex items-center justify-center rounded-full bg-gray-100
+           text-gray-500 text-xs font-black shrink-0;
+  }
+  .option-btn.correct {
+    @apply border-green-400 bg-green-50 text-green-800;
+  }
+  .option-btn.correct .label { @apply bg-green-400 text-white; }
+  .option-btn.wrong {
+    @apply border-red-400 bg-red-50 text-red-700 animate-shake;
+  }
+  .option-btn.wrong .label   { @apply bg-red-400 text-white; }
+  .option-btn.dimmed         { @apply opacity-40; }
+
+  /* ── Word chips (Reorder) ── */
+  .word-chip {
+    @apply px-3 py-2 rounded-xl text-sm font-bold transition-all duration-150 active:scale-95;
+  }
+  .word-chip.bank   { @apply bg-blue-100 text-blue-800 border-2 border-blue-200; }
+  .word-chip.chosen { @apply bg-white border-2 border-blue-400 text-blue-800 shadow-sm; }
+  .word-chip.chosen.correct { @apply border-green-400 bg-green-50 text-green-800; }
+  .word-chip.chosen.wrong   { @apply border-red-400 bg-red-50 text-red-700; }
+
+  /* ── Matching chips ── */
+  .match-chip {
+    @apply w-full py-2.5 px-3 rounded-xl border-2 border-gray-200 bg-white
+           text-sm font-bold text-gray-700 text-center transition-all duration-150
+           active:scale-95 disabled:cursor-default;
+  }
+  .match-chip.meaning    { @apply border-purple-200 text-purple-700 bg-purple-50; }
+  .match-chip.selected   { @apply border-blue-500 bg-blue-100 text-blue-800 scale-105; }
+  .match-chip.matched    { @apply border-green-400 bg-green-50 text-green-700 opacity-70; }
+  .match-chip.wrong-flash { @apply border-red-400 bg-red-50 text-red-700 animate-shake; }
+
+  /* ── Explanation ── */
+  .explanation-box { @apply mt-4 rounded-2xl p-4 border; }
+  .explanation-box.correct { @apply bg-green-50 border-green-200 text-green-800; }
+  .explanation-box.wrong   { @apply bg-red-50   border-red-200   text-red-800; }
+
+  /* ── Buttons ── */
+  .btn-primary {
+    @apply bg-blue-600 text-white font-bold py-3.5 rounded-2xl
+           active:scale-95 transition-all shadow-md;
+  }
+  .btn-secondary {
+    @apply bg-gray-100 text-gray-700 font-bold py-3.5 rounded-2xl
+           active:scale-95 transition-all border border-gray-200;
+  }
+  .btn-next {
+    @apply bg-gradient-to-r from-blue-600 to-blue-500 text-white font-black
+           text-base py-4 rounded-2xl shadow-lg active:scale-95 transition-all;
+  }
+
+  /* ── Result ── */
+  .result-hero  { @apply text-center pt-10 pb-6 px-4; }
+  .result-emoji { @apply text-7xl mb-3; }
+  .result-msg   { @apply text-2xl font-black text-gray-800 mb-4; }
+  .result-score { @apply flex items-end justify-center gap-1 mb-3; }
+  .score-big    { @apply text-6xl font-black text-blue-600 leading-none; }
+  .score-sep    { @apply text-2xl text-gray-400 font-bold mb-2; }
+  .score-pct-bar {
+    @apply w-48 h-3 bg-gray-200 rounded-full mx-auto overflow-hidden;
+  }
+  .score-pct-fill {
+    @apply h-3 bg-gradient-to-r from-blue-500 to-cyan-400 rounded-full transition-all duration-1000;
+  }
+
+  /* ── Stat boxes (History) ── */
+  .stat-box {
+    @apply bg-white rounded-2xl shadow-sm border border-gray-100 p-3
+           flex flex-col items-center gap-0.5;
+  }
+  .stat-num   { @apply text-xl font-black text-blue-600; }
+  .stat-label { @apply text-xs text-gray-400 font-semibold text-center; }
+
+  /* ── Review ── */
+  .review-card { @apply rounded-2xl p-4 border-2; }
+  .review-card.correct { @apply border-green-200 bg-green-50; }
+  .review-card.wrong   { @apply border-red-200   bg-red-50; }
+}
