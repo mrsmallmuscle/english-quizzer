@@ -5,7 +5,12 @@
     "unit": "Unit 1",
     "type": "multiple_choice",
     "question": "A rhino is ________ than a monkey.",
-    "options": ["big", "bigger", "more big", "biggest"],
+    "options": [
+      "big",
+      "bigger",
+      "more big",
+      "biggest"
+    ],
     "correct": 1,
     "explanation": "So sánh hơn của tính từ ngắn: thêm '-er'. 'big' → 'bigger' (gấp đôi phụ âm cuối vì trước là nguyên âm đơn)."
   },
@@ -15,7 +20,12 @@
     "unit": "Unit 1",
     "type": "multiple_choice",
     "question": "Is a crocodile longer than a snake?",
-    "options": ["Yes, it is.", "Yes, they are.", "Yes, she is.", "No, it isn't."],
+    "options": [
+      "Yes, it is.",
+      "Yes, they are.",
+      "Yes, she is.",
+      "No, it isn't."
+    ],
     "correct": 0,
     "explanation": "'A crocodile' là danh từ số ít → trả lời bằng 'Yes, it is.'"
   },
@@ -25,7 +35,12 @@
     "unit": "Unit 1",
     "type": "multiple_choice",
     "question": "________ the elephants drinking water? Yes, they are.",
-    "options": ["Is", "Am", "Are", "Do"],
+    "options": [
+      "Is",
+      "Am",
+      "Are",
+      "Do"
+    ],
     "correct": 2,
     "explanation": "'The elephants' là số nhiều → dùng 'Are' trong thì hiện tại tiếp diễn."
   },
@@ -35,7 +50,12 @@
     "unit": "Unit 2",
     "type": "multiple_choice",
     "question": "What's the weather ________? It's windy.",
-    "options": ["is", "like", "likes", "as"],
+    "options": [
+      "is",
+      "like",
+      "likes",
+      "as"
+    ],
     "correct": 1,
     "explanation": "Câu hỏi về thời tiết: 'What's the weather like?' là cấu trúc cố định."
   },
@@ -45,7 +65,12 @@
     "unit": "Unit 2",
     "type": "multiple_choice",
     "question": "It's snowing. ________ your coat and boots.",
-    "options": ["Don't", "Wear", "Bring", "Take"],
+    "options": [
+      "Don't",
+      "Wear",
+      "Bring",
+      "Take"
+    ],
     "correct": 1,
     "explanation": "Câu mệnh lệnh khuyên mặc đồ ấm khi trời tuyết: 'Wear your coat and boots.'"
   },
@@ -55,7 +80,12 @@
     "unit": "Unit 2",
     "type": "multiple_choice",
     "question": "________ forget your umbrella. It's raining!",
-    "options": ["No", "Not", "Don't", "Doesn't"],
+    "options": [
+      "No",
+      "Not",
+      "Don't",
+      "Doesn't"
+    ],
     "correct": 2,
     "explanation": "Câu mệnh lệnh phủ định: 'Don't + động từ nguyên thể'. → 'Don't forget...'"
   },
@@ -65,7 +95,12 @@
     "unit": "Unit 3",
     "type": "multiple_choice",
     "question": "How does she get to school? She goes ________ motorcycle.",
-    "options": ["on", "in", "by", "at"],
+    "options": [
+      "on",
+      "in",
+      "by",
+      "at"
+    ],
     "correct": 2,
     "explanation": "Phương tiện giao thông dùng giới từ 'by': by motorcycle, by bus, by car..."
   },
@@ -75,7 +110,12 @@
     "unit": "Unit 3",
     "type": "multiple_choice",
     "question": "When ________ the bus come? It comes at half past seven.",
-    "options": ["do", "does", "is", "are"],
+    "options": [
+      "do",
+      "does",
+      "is",
+      "are"
+    ],
     "correct": 1,
     "explanation": "'The bus' là số ít → dùng 'does' trong câu hỏi hiện tại đơn."
   },
@@ -85,7 +125,12 @@
     "unit": "Unit 3",
     "type": "multiple_choice",
     "question": "There are four ________ at the bus stop.",
-    "options": ["person", "peoples", "people", "persons"],
+    "options": [
+      "person",
+      "peoples",
+      "people",
+      "persons"
+    ],
     "correct": 2,
     "explanation": "'People' là dạng số nhiều không quy tắc của 'person'. Không thêm 's'."
   },
@@ -95,7 +140,12 @@
     "unit": "Unit 3",
     "type": "multiple_choice",
     "question": "There aren't any ________ in my bag.",
-    "options": ["scarfs", "scarves", "scarvs", "scarfes"],
+    "options": [
+      "scarfs",
+      "scarves",
+      "scarvs",
+      "scarfes"
+    ],
     "correct": 1,
     "explanation": "Số nhiều của 'scarf' là 'scarves' (đuôi -f → -ves, giống: leaf/leaves, knife/knives)."
   },
@@ -105,7 +155,12 @@
     "unit": "Unit 4",
     "type": "multiple_choice",
     "question": "I ________ very loud when I was little. Now I'm quiet.",
-    "options": ["are", "were", "was", "am"],
+    "options": [
+      "are",
+      "were",
+      "was",
+      "am"
+    ],
     "correct": 2,
     "explanation": "'I' đi với 'was' (quá khứ của 'am/is'). 'Were' dùng với you/we/they."
   },
@@ -115,7 +170,12 @@
     "unit": "Unit 4",
     "type": "multiple_choice",
     "question": "________ your friends kind at school today?",
-    "options": ["Was", "Were", "Are", "Is"],
+    "options": [
+      "Was",
+      "Were",
+      "Are",
+      "Is"
+    ],
     "correct": 1,
     "explanation": "'Your friends' là số nhiều → dùng 'Were' (quá khứ). Câu hỏi trong quá khứ."
   },
@@ -125,7 +185,12 @@
     "unit": "Unit 4",
     "type": "multiple_choice",
     "question": "When my sister was little, she ________ naughty. She was very good.",
-    "options": ["wasn't", "weren't", "isn't", "don't"],
+    "options": [
+      "wasn't",
+      "weren't",
+      "isn't",
+      "don't"
+    ],
     "correct": 0,
     "explanation": "'She' là ngôi 3 số ít → phủ định quá khứ dùng 'wasn't' (was not)."
   },
@@ -135,7 +200,12 @@
     "unit": "Unit 4",
     "type": "multiple_choice",
     "question": "Before, the story ________ scary. Now it's silly.",
-    "options": ["were", "was", "is", "are"],
+    "options": [
+      "were",
+      "was",
+      "is",
+      "are"
+    ],
     "correct": 1,
     "explanation": "'The story' là số ít → dùng 'was' (quá khứ đơn của 'is')."
   },
@@ -145,7 +215,12 @@
     "unit": "Unit 4",
     "type": "multiple_choice",
     "question": "We ________ dirty in art class. We ________ clean at all!",
-    "options": ["was / wasn't", "were / weren't", "were / wasn't", "was / weren't"],
+    "options": [
+      "was / wasn't",
+      "were / weren't",
+      "were / wasn't",
+      "was / weren't"
+    ],
     "correct": 1,
     "explanation": "'We' là số nhiều → dùng 'were' và 'weren't' (were not)."
   },
@@ -155,7 +230,12 @@
     "unit": "Unit 1",
     "type": "fill_in_blank",
     "question": "A giraffe is ________ than a hippo.",
-    "word_bank": ["taller", "faster", "shorter", "slower"],
+    "word_bank": [
+      "taller",
+      "faster",
+      "shorter",
+      "slower"
+    ],
     "correct": "taller",
     "explanation": "Giraffe (hươu cao cổ) cao hơn hippo (hà mã). 'tall' → 'taller'."
   },
@@ -165,7 +245,12 @@
     "unit": "Unit 1",
     "type": "fill_in_blank",
     "question": "Can a cheetah run ________ than a lion? Yes, it can.",
-    "word_bank": ["faster", "taller", "bigger", "slower"],
+    "word_bank": [
+      "faster",
+      "taller",
+      "bigger",
+      "slower"
+    ],
     "correct": "faster",
     "explanation": "Cheetah (báo săn) là động vật chạy nhanh nhất thế giới. 'fast' → 'faster'."
   },
@@ -175,7 +260,12 @@
     "unit": "Unit 1",
     "type": "fill_in_blank",
     "question": "Look! The monkeys ________ eating bananas right now.",
-    "word_bank": ["are", "is", "am", "were"],
+    "word_bank": [
+      "are",
+      "is",
+      "am",
+      "were"
+    ],
     "correct": "are",
     "explanation": "'The monkeys' là số nhiều → dùng 'are' trong thì hiện tại tiếp diễn."
   },
@@ -185,7 +275,12 @@
     "unit": "Unit 2",
     "type": "fill_in_blank",
     "question": "It's very cold today. ________ forget your gloves!",
-    "word_bank": ["Don't", "Wear", "Not", "Do"],
+    "word_bank": [
+      "Don't",
+      "Wear",
+      "Not",
+      "Do"
+    ],
     "correct": "Don't",
     "explanation": "Câu mệnh lệnh phủ định: 'Don't + verb'. Khuyên đừng quên đồ ấm."
   },
@@ -195,7 +290,12 @@
     "unit": "Unit 3",
     "type": "fill_in_blank",
     "question": "I get to school ________ bus every day.",
-    "word_bank": ["by", "on", "in", "at"],
+    "word_bank": [
+      "by",
+      "on",
+      "in",
+      "at"
+    ],
     "correct": "by",
     "explanation": "Phương tiện giao thông dùng 'by': by bus, by car, by bike..."
   },
@@ -205,7 +305,12 @@
     "unit": "Unit 3",
     "type": "fill_in_blank",
     "question": "There are ten ________ in the swimming pool.",
-    "word_bank": ["children", "childs", "peoples", "person"],
+    "word_bank": [
+      "children",
+      "childs",
+      "peoples",
+      "person"
+    ],
     "correct": "children",
     "explanation": "Số nhiều không quy tắc của 'child' là 'children'."
   },
@@ -215,7 +320,12 @@
     "unit": "Unit 4",
     "type": "fill_in_blank",
     "question": "My classmates ________ good today. They were naughty!",
-    "word_bank": ["weren't", "wasn't", "aren't", "isn't"],
+    "word_bank": [
+      "weren't",
+      "wasn't",
+      "aren't",
+      "isn't"
+    ],
     "correct": "weren't",
     "explanation": "'My classmates' là số nhiều → dùng 'weren't' (were not) trong quá khứ."
   },
@@ -225,8 +335,20 @@
     "unit": "Unit 1",
     "type": "reorder",
     "question": "Sắp xếp thành câu đúng:",
-    "words": ["slower", "a hippo", "than", "is", "a tiger"],
-    "correct": ["a hippo", "is", "slower", "than", "a tiger"],
+    "words": [
+      "slower",
+      "a hippo",
+      "than",
+      "is",
+      "a tiger"
+    ],
+    "correct": [
+      "a hippo",
+      "is",
+      "slower",
+      "than",
+      "a tiger"
+    ],
     "explanation": "Cấu trúc: Subject + is/are + adj-er + than + Object. → 'A hippo is slower than a tiger.'"
   },
   {
@@ -235,8 +357,18 @@
     "unit": "Unit 1",
     "type": "reorder",
     "question": "Sắp xếp thành câu đúng:",
-    "words": ["the lions", "are", "now", "sleeping"],
-    "correct": ["the lions", "are", "sleeping", "now"],
+    "words": [
+      "the lions",
+      "are",
+      "now",
+      "sleeping"
+    ],
+    "correct": [
+      "the lions",
+      "are",
+      "sleeping",
+      "now"
+    ],
     "explanation": "Thì hiện tại tiếp diễn: Subject + are + V-ing. 'now' thường đặt cuối câu."
   },
   {
@@ -245,8 +377,20 @@
     "unit": "Unit 2",
     "type": "reorder",
     "question": "Sắp xếp thành câu đúng:",
-    "words": ["today", "like", "weather", "what's", "the"],
-    "correct": ["what's", "the", "weather", "like", "today"],
+    "words": [
+      "today",
+      "like",
+      "weather",
+      "what's",
+      "the"
+    ],
+    "correct": [
+      "what's",
+      "the",
+      "weather",
+      "like",
+      "today"
+    ],
     "explanation": "Câu hỏi về thời tiết: 'What's the weather like today?' là cấu trúc cố định."
   },
   {
@@ -255,8 +399,18 @@
     "unit": "Unit 2",
     "type": "reorder",
     "question": "Sắp xếp thành câu đúng:",
-    "words": ["umbrella", "forget", "don't", "your"],
-    "correct": ["don't", "forget", "your", "umbrella"],
+    "words": [
+      "umbrella",
+      "forget",
+      "don't",
+      "your"
+    ],
+    "correct": [
+      "don't",
+      "forget",
+      "your",
+      "umbrella"
+    ],
     "explanation": "Câu mệnh lệnh phủ định: 'Don't + verb + object.' → 'Don't forget your umbrella.'"
   },
   {
@@ -265,8 +419,22 @@
     "unit": "Unit 3",
     "type": "reorder",
     "question": "Sắp xếp thành câu đúng:",
-    "words": ["does", "how", "get", "she", "school", "to"],
-    "correct": ["how", "does", "she", "get", "to", "school"],
+    "words": [
+      "does",
+      "how",
+      "get",
+      "she",
+      "school",
+      "to"
+    ],
+    "correct": [
+      "how",
+      "does",
+      "she",
+      "get",
+      "to",
+      "school"
+    ],
     "explanation": "Câu hỏi: 'How does she get to school?' → How + does + subject + verb."
   },
   {
@@ -275,8 +443,20 @@
     "unit": "Unit 3",
     "type": "reorder",
     "question": "Sắp xếp thành câu đúng:",
-    "words": ["the", "come", "when", "bus", "does"],
-    "correct": ["when", "does", "the", "bus", "come"],
+    "words": [
+      "the",
+      "come",
+      "when",
+      "bus",
+      "does"
+    ],
+    "correct": [
+      "when",
+      "does",
+      "the",
+      "bus",
+      "come"
+    ],
     "explanation": "Câu hỏi: 'When does the bus come?' → When + does + subject + verb."
   },
   {
@@ -285,8 +465,24 @@
     "unit": "Unit 4",
     "type": "reorder",
     "question": "Sắp xếp thành câu đúng:",
-    "words": ["little", "I", "was", "I", "when", "naughty", "wasn't"],
-    "correct": ["when", "I", "was", "little", "I", "wasn't", "naughty"],
+    "words": [
+      "little",
+      "I",
+      "was",
+      "I",
+      "when",
+      "naughty",
+      "wasn't"
+    ],
+    "correct": [
+      "when",
+      "I",
+      "was",
+      "little",
+      "I",
+      "wasn't",
+      "naughty"
+    ],
     "explanation": "Mệnh đề thời gian: 'When I was little, I wasn't naughty.' → When clause + main clause."
   },
   {
@@ -295,8 +491,22 @@
     "unit": "Unit 4",
     "type": "reorder",
     "question": "Sắp xếp thành câu đúng:",
-    "words": ["class", "were", "art", "we", "in", "dirty"],
-    "correct": ["we", "were", "dirty", "in", "art", "class"],
+    "words": [
+      "class",
+      "were",
+      "art",
+      "we",
+      "in",
+      "dirty"
+    ],
+    "correct": [
+      "we",
+      "were",
+      "dirty",
+      "in",
+      "art",
+      "class"
+    ],
     "explanation": "Câu khẳng định quá khứ: 'We were dirty in art class.' → Subject + were + adj + place."
   },
   {
@@ -426,10 +636,22 @@
     "type": "matching",
     "question": "Nối từ với nghĩa đúng:",
     "pairs": [
-      { "word": "daughter", "meaning": "con gái" },
-      { "word": "son",      "meaning": "con trai" },
-      { "word": "parents",  "meaning": "bố mẹ" },
-      { "word": "grandparents", "meaning": "ông bà" }
+      {
+        "word": "daughter",
+        "meaning": "con gái"
+      },
+      {
+        "word": "son",
+        "meaning": "con trai"
+      },
+      {
+        "word": "parents",
+        "meaning": "bố mẹ"
+      },
+      {
+        "word": "grandparents",
+        "meaning": "ông bà"
+      }
     ],
     "explanation": "Từ vựng gia đình: daughter=con gái, son=con trai, parents=bố mẹ, grandparents=ông bà."
   },
@@ -440,11 +662,3494 @@
     "type": "matching",
     "question": "Nối từ với nghĩa đúng:",
     "pairs": [
-      { "word": "bigger",  "meaning": "to hơn" },
-      { "word": "longer",  "meaning": "dài hơn" },
-      { "word": "faster",  "meaning": "nhanh hơn" },
-      { "word": "taller",  "meaning": "cao hơn" }
+      {
+        "word": "bigger",
+        "meaning": "to hơn"
+      },
+      {
+        "word": "longer",
+        "meaning": "dài hơn"
+      },
+      {
+        "word": "faster",
+        "meaning": "nhanh hơn"
+      },
+      {
+        "word": "taller",
+        "meaning": "cao hơn"
+      }
     ],
     "explanation": "Các tính từ so sánh hơn: big→bigger, long→longer, fast→faster, tall→taller."
+  },
+  {
+    "id": 41,
+    "curriculum": "SKET6",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "What's this? ________ a pen.",
+    "options": [
+      "It's",
+      "Its",
+      "This",
+      "That's"
+    ],
+    "correct": 0,
+    "explanation": "Trả lời câu hỏi 'What's this?' bằng 'It's + danh từ'. 'It's' = It is."
+  },
+  {
+    "id": 42,
+    "curriculum": "SKET6",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "________ this a ruler? Yes, it is.",
+    "options": [
+      "What's",
+      "Is",
+      "Are",
+      "It's"
+    ],
+    "correct": 1,
+    "explanation": "Câu hỏi Yes/No về vật thể gần: 'Is this + danh từ?' → trả lời 'Yes, it is / No, it isn't.'"
+  },
+  {
+    "id": 43,
+    "curriculum": "SKET6",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "Is this a classroom? No, ________.",
+    "options": [
+      "it is",
+      "it isn't",
+      "this isn't",
+      "they aren't"
+    ],
+    "correct": 1,
+    "explanation": "Trả lời phủ định: 'No, it isn't.' (it is not). 'isn't' = is not."
+  },
+  {
+    "id": 44,
+    "curriculum": "SKET6",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "________ this? It's an eraser.",
+    "word_bank": [
+      "What's",
+      "Who's",
+      "Where's",
+      "Is"
+    ],
+    "correct": "What's",
+    "explanation": "Hỏi về vật thể: 'What's this?' = What is this? → trả lời 'It's + tên đồ vật'."
+  },
+  {
+    "id": 45,
+    "curriculum": "SKET6",
+    "unit": "Unit 1",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "bag",
+        "meaning": "cái túi"
+      },
+      {
+        "word": "eraser",
+        "meaning": "cục tẩy"
+      },
+      {
+        "word": "ruler",
+        "meaning": "thước kẻ"
+      },
+      {
+        "word": "pencil case",
+        "meaning": "hộp bút"
+      }
+    ],
+    "explanation": "Đồ dùng học tập: bag=túi, eraser=cục tẩy, ruler=thước kẻ, pencil case=hộp bút."
+  },
+  {
+    "id": 46,
+    "curriculum": "SKET6",
+    "unit": "Unit 1",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "a",
+      "this",
+      "is",
+      "pencil"
+    ],
+    "correct": [
+      "is",
+      "this",
+      "a",
+      "pencil"
+    ],
+    "explanation": "Câu hỏi Yes/No: 'Is this a pencil?' → Is + this + a + danh từ + ?"
+  },
+  {
+    "id": 47,
+    "curriculum": "SKET6",
+    "unit": "Unit 1",
+    "type": "error_correction",
+    "question": "What's this? It's an pen.",
+    "options": [
+      "an → a",
+      "What's → What",
+      "this → these",
+      "It's → Its"
+    ],
+    "correct": 0,
+    "explanation": "Dùng 'a' trước từ bắt đầu bằng phụ âm: 'a pen'. Dùng 'an' trước nguyên âm: an eraser, an apple."
+  },
+  {
+    "id": 48,
+    "curriculum": "SKET6",
+    "unit": "Unit 2",
+    "type": "multiple_choice",
+    "question": "Is this your book? ________, it isn't.",
+    "options": [
+      "Yes",
+      "No",
+      "Not",
+      "It"
+    ],
+    "correct": 1,
+    "explanation": "Trả lời phủ định câu hỏi Yes/No: 'No, it isn't.' Bắt đầu bằng 'No'."
+  },
+  {
+    "id": 49,
+    "curriculum": "SKET6",
+    "unit": "Unit 2",
+    "type": "multiple_choice",
+    "question": "This is ________ train. It's his favorite toy.",
+    "options": [
+      "a",
+      "an",
+      "my",
+      "the"
+    ],
+    "correct": 2,
+    "explanation": "Đại từ sở hữu 'my/his/her/your' đứng trước danh từ để chỉ sự sở hữu."
+  },
+  {
+    "id": 50,
+    "curriculum": "SKET6",
+    "unit": "Unit 2",
+    "type": "fill_in_blank",
+    "question": "Is this ________ kite? Yes, it is.",
+    "word_bank": [
+      "your",
+      "you",
+      "yours",
+      "my"
+    ],
+    "correct": "your",
+    "explanation": "Trước danh từ dùng tính từ sở hữu 'your' (của bạn), không dùng đại từ 'you'."
+  },
+  {
+    "id": 51,
+    "curriculum": "SKET6",
+    "unit": "Unit 2",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "ball",
+        "meaning": "quả bóng"
+      },
+      {
+        "word": "kite",
+        "meaning": "con diều"
+      },
+      {
+        "word": "doll",
+        "meaning": "búp bê"
+      },
+      {
+        "word": "teddy bear",
+        "meaning": "gấu bông"
+      }
+    ],
+    "explanation": "Đồ chơi: ball=quả bóng, kite=con diều, doll=búp bê, teddy bear=gấu bông."
+  },
+  {
+    "id": 52,
+    "curriculum": "SKET6",
+    "unit": "Unit 2",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "my",
+      "this",
+      "game",
+      "is"
+    ],
+    "correct": [
+      "this",
+      "is",
+      "my",
+      "game"
+    ],
+    "explanation": "Câu khẳng định: 'This is my game.' → This + is + tính từ sở hữu + danh từ."
+  },
+  {
+    "id": 53,
+    "curriculum": "SKET6",
+    "unit": "Unit 2",
+    "type": "error_correction",
+    "question": "Is this you book? No, it isn't.",
+    "options": [
+      "you → your",
+      "Is → Are",
+      "No → Yes",
+      "isn't → is"
+    ],
+    "correct": 0,
+    "explanation": "Trước danh từ phải dùng tính từ sở hữu 'your', không dùng đại từ 'you'."
+  },
+  {
+    "id": 54,
+    "curriculum": "SKET6",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "________ a boy. He's my classmate.",
+    "options": [
+      "She's",
+      "He's",
+      "It's",
+      "They're"
+    ],
+    "correct": 1,
+    "explanation": "Đại từ nhân xưng: 'He' dùng cho nam giới. 'He's' = He is."
+  },
+  {
+    "id": 55,
+    "curriculum": "SKET6",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "Is she your friend? ________, she is.",
+    "options": [
+      "No",
+      "Yes",
+      "She",
+      "Not"
+    ],
+    "correct": 1,
+    "explanation": "Trả lời khẳng định: 'Yes, she is.' Dùng 'she' vì hỏi về một người nữ."
+  },
+  {
+    "id": 56,
+    "curriculum": "SKET6",
+    "unit": "Unit 3",
+    "type": "fill_in_blank",
+    "question": "Is he a teacher? No, ________ isn't.",
+    "word_bank": [
+      "he",
+      "she",
+      "it",
+      "they"
+    ],
+    "correct": "he",
+    "explanation": "Hỏi về 'he' → trả lời dùng 'he': 'No, he isn't.'"
+  },
+  {
+    "id": 57,
+    "curriculum": "SKET6",
+    "unit": "Unit 3",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "boy",
+        "meaning": "con trai"
+      },
+      {
+        "word": "girl",
+        "meaning": "con gái"
+      },
+      {
+        "word": "teacher",
+        "meaning": "giáo viên"
+      },
+      {
+        "word": "classmate",
+        "meaning": "bạn cùng lớp"
+      }
+    ],
+    "explanation": "boy=con trai, girl=con gái, teacher=giáo viên, classmate=bạn cùng lớp."
+  },
+  {
+    "id": 58,
+    "curriculum": "SKET6",
+    "unit": "Unit 3",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "my",
+      "she's",
+      "friend",
+      "girl",
+      "a",
+      "she's"
+    ],
+    "correct": [
+      "she's",
+      "a",
+      "girl",
+      "she's",
+      "my",
+      "friend"
+    ],
+    "explanation": "Hai câu ghép: 'She's a girl. She's my friend.' Dùng 'She's' = She is."
+  },
+  {
+    "id": 59,
+    "curriculum": "SKET6",
+    "unit": "Unit 3",
+    "type": "error_correction",
+    "question": "Is she your friend? Yes, he is.",
+    "options": [
+      "he → she",
+      "Is → Are",
+      "your → her",
+      "Yes → No"
+    ],
+    "correct": 0,
+    "explanation": "Hỏi về 'she' thì trả lời phải dùng 'she': 'Yes, she is.', không dùng 'he'."
+  },
+  {
+    "id": 60,
+    "curriculum": "SKET6",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "I have a grandpa. ________ name is Victor.",
+    "options": [
+      "Her",
+      "His",
+      "My",
+      "Its"
+    ],
+    "correct": 1,
+    "explanation": "Grandpa (ông) là nam giới → dùng 'His' (của ông ấy)."
+  },
+  {
+    "id": 61,
+    "curriculum": "SKET6",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "I have a sister. ________ name is Ameta.",
+    "options": [
+      "His",
+      "Her",
+      "My",
+      "Their"
+    ],
+    "correct": 1,
+    "explanation": "Sister (chị/em gái) là nữ giới → dùng 'Her' (của cô ấy)."
+  },
+  {
+    "id": 62,
+    "curriculum": "SKET6",
+    "unit": "Unit 4",
+    "type": "fill_in_blank",
+    "question": "I have a brother and a sister. ________ name is Tom and ________ name is Lily.",
+    "word_bank": [
+      "His / Her",
+      "Her / His",
+      "My / Her",
+      "His / My"
+    ],
+    "correct": "His / Her",
+    "explanation": "Brother (anh/em trai) → His. Sister (chị/em gái) → Her."
+  },
+  {
+    "id": 63,
+    "curriculum": "SKET6",
+    "unit": "Unit 4",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "grandma",
+        "meaning": "bà"
+      },
+      {
+        "word": "uncle",
+        "meaning": "chú/cậu/bác"
+      },
+      {
+        "word": "aunt",
+        "meaning": "cô/dì/thím"
+      },
+      {
+        "word": "cousin",
+        "meaning": "anh/chị/em họ"
+      }
+    ],
+    "explanation": "Từ vựng gia đình: grandma=bà, uncle=chú/cậu/bác, aunt=cô/dì/thím, cousin=anh chị em họ."
+  },
+  {
+    "id": 64,
+    "curriculum": "SKET6",
+    "unit": "Unit 4",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "a",
+      "I",
+      "have",
+      "grandpa"
+    ],
+    "correct": [
+      "I",
+      "have",
+      "a",
+      "grandpa"
+    ],
+    "explanation": "Câu khẳng định với 'have': I + have + a/an + danh từ."
+  },
+  {
+    "id": 65,
+    "curriculum": "SKET6",
+    "unit": "Unit 4",
+    "type": "error_correction",
+    "question": "I have a uncle. Her name is Mike.",
+    "options": [
+      "a uncle → an uncle",
+      "Her → His",
+      "both A and B",
+      "have → has"
+    ],
+    "correct": 2,
+    "explanation": "Có hai lỗi: 'uncle' bắt đầu bằng nguyên âm → 'an uncle'; uncle là nam → 'His name'. Phải sửa cả hai."
+  },
+  {
+    "id": 66,
+    "curriculum": "SKET6",
+    "unit": "Unit 5",
+    "type": "multiple_choice",
+    "question": "This is my head. ________ are my hands.",
+    "options": [
+      "This",
+      "These",
+      "That",
+      "Those"
+    ],
+    "correct": 1,
+    "explanation": "'Hands' là số nhiều, gần người nói → dùng 'These' (những cái này)."
+  },
+  {
+    "id": 67,
+    "curriculum": "SKET6",
+    "unit": "Unit 5",
+    "type": "multiple_choice",
+    "question": "He has ________ hair.",
+    "options": [
+      "a brown",
+      "brown",
+      "browns",
+      "the brown"
+    ],
+    "correct": 1,
+    "explanation": "Tính từ màu sắc không có mạo từ 'a/an' khi đứng trước danh từ không đếm được: 'brown hair'."
+  },
+  {
+    "id": 68,
+    "curriculum": "SKET6",
+    "unit": "Unit 5",
+    "type": "fill_in_blank",
+    "question": "She ________ have blue eyes. She has brown eyes.",
+    "word_bank": [
+      "doesn't",
+      "don't",
+      "isn't",
+      "aren't"
+    ],
+    "correct": "doesn't",
+    "explanation": "Phủ định ở ngôi 3 số ít (she/he/it) + động từ thường → 'doesn't + V nguyên thể'."
+  },
+  {
+    "id": 69,
+    "curriculum": "SKET6",
+    "unit": "Unit 5",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "eye",
+        "meaning": "mắt"
+      },
+      {
+        "word": "ear",
+        "meaning": "tai"
+      },
+      {
+        "word": "mouth",
+        "meaning": "miệng"
+      },
+      {
+        "word": "arm",
+        "meaning": "cánh tay"
+      }
+    ],
+    "explanation": "Bộ phận cơ thể: eye=mắt, ear=tai, mouth=miệng, arm=cánh tay."
+  },
+  {
+    "id": 70,
+    "curriculum": "SKET6",
+    "unit": "Unit 5",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "my",
+      "are",
+      "these",
+      "hands"
+    ],
+    "correct": [
+      "these",
+      "are",
+      "my",
+      "hands"
+    ],
+    "explanation": "Câu khẳng định với 'these': These + are + tính từ sở hữu + danh từ số nhiều."
+  },
+  {
+    "id": 71,
+    "curriculum": "SKET6",
+    "unit": "Unit 5",
+    "type": "error_correction",
+    "question": "He have black hair and big eyes.",
+    "options": [
+      "have → has",
+      "black → blacks",
+      "big → bigs",
+      "and → or"
+    ],
+    "correct": 0,
+    "explanation": "Ngôi 3 số ít (he/she/it) dùng 'has', không dùng 'have'."
+  },
+  {
+    "id": 72,
+    "curriculum": "SKET6",
+    "unit": "Unit 6",
+    "type": "multiple_choice",
+    "question": "Where's the sofa? It's ________ the living room.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "under"
+    ],
+    "correct": 0,
+    "explanation": "Đồ vật nằm bên trong phòng → dùng 'in'. 'It's in the living room.'"
+  },
+  {
+    "id": 73,
+    "curriculum": "SKET6",
+    "unit": "Unit 6",
+    "type": "multiple_choice",
+    "question": "The game is ________ the bed.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "next to"
+    ],
+    "correct": 1,
+    "explanation": "Đồ vật nằm trên mặt phẳng → dùng 'on'. 'The game is on the bed.'"
+  },
+  {
+    "id": 74,
+    "curriculum": "SKET6",
+    "unit": "Unit 6",
+    "type": "multiple_choice",
+    "question": "The table is ________ the bed.",
+    "options": [
+      "on",
+      "in",
+      "next to",
+      "under"
+    ],
+    "correct": 2,
+    "explanation": "'Next to' nghĩa là bên cạnh. 'The table is next to the bed.'"
+  },
+  {
+    "id": 75,
+    "curriculum": "SKET6",
+    "unit": "Unit 6",
+    "type": "fill_in_blank",
+    "question": "Where's the clock? It's ________ the wall.",
+    "word_bank": [
+      "on",
+      "in",
+      "under",
+      "next to"
+    ],
+    "correct": "on",
+    "explanation": "Đồng hồ treo trên tường → 'on the wall'."
+  },
+  {
+    "id": 76,
+    "curriculum": "SKET6",
+    "unit": "Unit 6",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "bedroom",
+        "meaning": "phòng ngủ"
+      },
+      {
+        "word": "kitchen",
+        "meaning": "nhà bếp"
+      },
+      {
+        "word": "bathroom",
+        "meaning": "phòng tắm"
+      },
+      {
+        "word": "living room",
+        "meaning": "phòng khách"
+      }
+    ],
+    "explanation": "Các phòng trong nhà: bedroom=phòng ngủ, kitchen=bếp, bathroom=phòng tắm, living room=phòng khách."
+  },
+  {
+    "id": 77,
+    "curriculum": "SKET6",
+    "unit": "Unit 6",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "the",
+      "sofa",
+      "where's"
+    ],
+    "correct": [
+      "where's",
+      "the",
+      "sofa"
+    ],
+    "explanation": "Câu hỏi về vị trí: 'Where's the sofa?' → Where's + the + danh từ + ?"
+  },
+  {
+    "id": 78,
+    "curriculum": "SKET6",
+    "unit": "Unit 6",
+    "type": "error_correction",
+    "question": "The book is in the table.",
+    "options": [
+      "in → on",
+      "is → are",
+      "The → A",
+      "table → tables"
+    ],
+    "correct": 0,
+    "explanation": "Đồ vật nằm trên mặt bàn → dùng 'on', không dùng 'in'. 'The book is on the table.'"
+  },
+  {
+    "id": 79,
+    "curriculum": "SKET6",
+    "unit": "Unit 7",
+    "type": "multiple_choice",
+    "question": "There ________ a store on the street.",
+    "options": [
+      "are",
+      "is",
+      "have",
+      "has"
+    ],
+    "correct": 1,
+    "explanation": "'There is' dùng với danh từ số ít: 'There is a store.' 'There are' dùng với số nhiều."
+  },
+  {
+    "id": 80,
+    "curriculum": "SKET6",
+    "unit": "Unit 7",
+    "type": "multiple_choice",
+    "question": "There ________ houses next to the park.",
+    "options": [
+      "is",
+      "are",
+      "have",
+      "has"
+    ],
+    "correct": 1,
+    "explanation": "'Houses' là số nhiều → dùng 'There are houses...' "
+  },
+  {
+    "id": 81,
+    "curriculum": "SKET6",
+    "unit": "Unit 7",
+    "type": "fill_in_blank",
+    "question": "Is there a library in the town center? No, there ________.",
+    "word_bank": [
+      "isn't",
+      "aren't",
+      "is",
+      "are"
+    ],
+    "correct": "isn't",
+    "explanation": "Hỏi 'Is there a...' (số ít) → trả lời phủ định: 'No, there isn't.'"
+  },
+  {
+    "id": 82,
+    "curriculum": "SKET6",
+    "unit": "Unit 7",
+    "type": "fill_in_blank",
+    "question": "Are there trees in the park? Yes, there ________.",
+    "word_bank": [
+      "are",
+      "is",
+      "aren't",
+      "isn't"
+    ],
+    "correct": "are",
+    "explanation": "Hỏi 'Are there...' (số nhiều) → trả lời khẳng định: 'Yes, there are.'"
+  },
+  {
+    "id": 83,
+    "curriculum": "SKET6",
+    "unit": "Unit 7",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "park",
+        "meaning": "công viên"
+      },
+      {
+        "word": "zoo",
+        "meaning": "sở thú"
+      },
+      {
+        "word": "library",
+        "meaning": "thư viện"
+      },
+      {
+        "word": "playground",
+        "meaning": "sân chơi"
+      }
+    ],
+    "explanation": "park=công viên, zoo=sở thú, library=thư viện, playground=sân chơi."
+  },
+  {
+    "id": 84,
+    "curriculum": "SKET6",
+    "unit": "Unit 7",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "a",
+      "there's",
+      "street",
+      "store",
+      "on",
+      "the"
+    ],
+    "correct": [
+      "there's",
+      "a",
+      "store",
+      "on",
+      "the",
+      "street"
+    ],
+    "explanation": "'There's a store on the street.' → There's + a + danh từ + giới từ + nơi chốn."
+  },
+  {
+    "id": 85,
+    "curriculum": "SKET6",
+    "unit": "Unit 7",
+    "type": "error_correction",
+    "question": "There are a pool near my house.",
+    "options": [
+      "are → is",
+      "There → Here",
+      "near → next",
+      "a → an"
+    ],
+    "correct": 0,
+    "explanation": "'A pool' là số ít → phải dùng 'There is a pool', không dùng 'There are a pool'."
+  },
+  {
+    "id": 86,
+    "curriculum": "SKET6",
+    "unit": "Unit 8",
+    "type": "multiple_choice",
+    "question": "A dog ________ run.",
+    "options": [
+      "can",
+      "can't",
+      "is",
+      "does"
+    ],
+    "correct": 0,
+    "explanation": "Chó có thể chạy → dùng 'can' (có thể). 'A dog can run.'"
+  },
+  {
+    "id": 87,
+    "curriculum": "SKET6",
+    "unit": "Unit 8",
+    "type": "multiple_choice",
+    "question": "Can a duck talk? No, ________.",
+    "options": [
+      "it can",
+      "it can't",
+      "they can't",
+      "she can't"
+    ],
+    "correct": 1,
+    "explanation": "'A duck' là số ít → trả lời 'No, it can't.' (it cannot)."
+  },
+  {
+    "id": 88,
+    "curriculum": "SKET6",
+    "unit": "Unit 8",
+    "type": "fill_in_blank",
+    "question": "A cat ________ swim. It's not good in water.",
+    "word_bank": [
+      "can't",
+      "can",
+      "doesn't",
+      "isn't"
+    ],
+    "correct": "can't",
+    "explanation": "Mèo không biết bơi → dùng 'can't' (cannot). 'A cat can't swim.'"
+  },
+  {
+    "id": 89,
+    "curriculum": "SKET6",
+    "unit": "Unit 8",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "bee",
+        "meaning": "con ong"
+      },
+      {
+        "word": "cow",
+        "meaning": "con bò"
+      },
+      {
+        "word": "sheep",
+        "meaning": "con cừu"
+      },
+      {
+        "word": "donkey",
+        "meaning": "con lừa"
+      }
+    ],
+    "explanation": "bee=con ong, cow=con bò, sheep=con cừu, donkey=con lừa."
+  },
+  {
+    "id": 90,
+    "curriculum": "SKET6",
+    "unit": "Unit 8",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "swim",
+      "can't",
+      "a",
+      "cat"
+    ],
+    "correct": [
+      "a",
+      "cat",
+      "can't",
+      "swim"
+    ],
+    "explanation": "Câu phủ định với 'can': Subject + can't + V nguyên thể → 'A cat can't swim.'"
+  },
+  {
+    "id": 91,
+    "curriculum": "SKET6",
+    "unit": "Unit 8",
+    "type": "error_correction",
+    "question": "Can you sees the bird? Yes, I can.",
+    "options": [
+      "sees → see",
+      "Can → Do",
+      "the → a",
+      "Yes → No"
+    ],
+    "correct": 0,
+    "explanation": "Sau 'can' luôn dùng động từ nguyên thể (không chia): 'Can you see...' không phải 'sees'."
+  },
+  {
+    "id": 92,
+    "curriculum": "SKET6",
+    "unit": "Unit 9",
+    "type": "multiple_choice",
+    "question": "Are these your shoes? Yes, ________.",
+    "options": [
+      "it is",
+      "they are",
+      "they're",
+      "she is"
+    ],
+    "correct": 1,
+    "explanation": "'Shoes' là số nhiều → trả lời 'Yes, they are.' (không rút gọn khi trả lời khẳng định)."
+  },
+  {
+    "id": 93,
+    "curriculum": "SKET6",
+    "unit": "Unit 9",
+    "type": "multiple_choice",
+    "question": "What color ________ his hair? It's yellow.",
+    "options": [
+      "are",
+      "is",
+      "have",
+      "has"
+    ],
+    "correct": 1,
+    "explanation": "'Hair' (tóc) là danh từ không đếm được → dùng 'is'. 'What color is his hair?'"
+  },
+  {
+    "id": 94,
+    "curriculum": "SKET6",
+    "unit": "Unit 9",
+    "type": "fill_in_blank",
+    "question": "What color are his eyes? ________ black.",
+    "word_bank": [
+      "They're",
+      "It's",
+      "He's",
+      "She's"
+    ],
+    "correct": "They're",
+    "explanation": "'Eyes' là số nhiều → trả lời bằng 'They're' (They are) black."
+  },
+  {
+    "id": 95,
+    "curriculum": "SKET6",
+    "unit": "Unit 9",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "dress",
+        "meaning": "váy đầm"
+      },
+      {
+        "word": "jeans",
+        "meaning": "quần jeans"
+      },
+      {
+        "word": "skirt",
+        "meaning": "chân váy"
+      },
+      {
+        "word": "gloves",
+        "meaning": "găng tay"
+      }
+    ],
+    "explanation": "dress=váy đầm, jeans=quần jeans, skirt=chân váy, gloves=găng tay."
+  },
+  {
+    "id": 96,
+    "curriculum": "SKET6",
+    "unit": "Unit 9",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "eyes",
+      "color",
+      "are",
+      "what",
+      "his"
+    ],
+    "correct": [
+      "what",
+      "color",
+      "are",
+      "his",
+      "eyes"
+    ],
+    "explanation": "Câu hỏi về màu sắc số nhiều: 'What color are his eyes?' → What + color + are + possessive + noun."
+  },
+  {
+    "id": 97,
+    "curriculum": "SKET6",
+    "unit": "Unit 10",
+    "type": "multiple_choice",
+    "question": "Do you like bananas? Yes, I ________.",
+    "options": [
+      "like",
+      "do",
+      "am",
+      "have"
+    ],
+    "correct": 1,
+    "explanation": "Trả lời câu hỏi 'Do you...?' khẳng định: 'Yes, I do.' (không lặp lại động từ)."
+  },
+  {
+    "id": 98,
+    "curriculum": "SKET6",
+    "unit": "Unit 10",
+    "type": "multiple_choice",
+    "question": "I ________ like milk. It's terrible.",
+    "options": [
+      "don't",
+      "doesn't",
+      "isn't",
+      "not"
+    ],
+    "correct": 0,
+    "explanation": "Phủ định với 'I/you/we/they' + động từ thường → 'don't + V'. 'I don't like milk.'"
+  },
+  {
+    "id": 99,
+    "curriculum": "SKET6",
+    "unit": "Unit 10",
+    "type": "fill_in_blank",
+    "question": "________ Bánh Gạo like tomatoes? No, she doesn't.",
+    "word_bank": [
+      "Does",
+      "Do",
+      "Is",
+      "Has"
+    ],
+    "correct": "Does",
+    "explanation": "Hỏi về ngôi 3 số ít (Bánh Gạo/she/he/it) + động từ thường → 'Does + S + V?'"
+  },
+  {
+    "id": 100,
+    "curriculum": "SKET6",
+    "unit": "Unit 10",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "banana",
+        "meaning": "chuối"
+      },
+      {
+        "word": "potato",
+        "meaning": "khoai tây"
+      },
+      {
+        "word": "lemon",
+        "meaning": "chanh vàng"
+      },
+      {
+        "word": "candy",
+        "meaning": "kẹo"
+      }
+    ],
+    "explanation": "banana=chuối, potato=khoai tây, lemon=chanh vàng, candy=kẹo."
+  },
+  {
+    "id": 101,
+    "curriculum": "SKET6",
+    "unit": "Unit 11",
+    "type": "multiple_choice",
+    "question": "There ________ boats in the ocean.",
+    "options": [
+      "isn't",
+      "aren't",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "explanation": "'Boats' là số nhiều → 'There aren't boats...' (phủ định số nhiều)."
+  },
+  {
+    "id": 102,
+    "curriculum": "SKET6",
+    "unit": "Unit 11",
+    "type": "multiple_choice",
+    "question": "Is there a sun hat on my head? No, there ________.",
+    "options": [
+      "aren't",
+      "isn't",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "explanation": "Hỏi 'Is there a...' (số ít) → trả lời phủ định: 'No, there isn't.'"
+  },
+  {
+    "id": 103,
+    "curriculum": "SKET6",
+    "unit": "Unit 11",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "beach",
+        "meaning": "bãi biển"
+      },
+      {
+        "word": "ocean",
+        "meaning": "đại dương"
+      },
+      {
+        "word": "sandcastle",
+        "meaning": "lâu đài cát"
+      },
+      {
+        "word": "shell",
+        "meaning": "vỏ sò"
+      }
+    ],
+    "explanation": "beach=bãi biển, ocean=đại dương, sandcastle=lâu đài cát, shell=vỏ sò."
+  },
+  {
+    "id": 104,
+    "curriculum": "SKET6",
+    "unit": "Unit 11",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "fish",
+      "are",
+      "the",
+      "there",
+      "water",
+      "in"
+    ],
+    "correct": [
+      "are",
+      "there",
+      "fish",
+      "in",
+      "the",
+      "water"
+    ],
+    "explanation": "Câu hỏi Yes/No: 'Are there fish in the water?' → Are + there + danh từ số nhiều + vị trí?"
+  },
+  {
+    "id": 105,
+    "curriculum": "SKET6",
+    "unit": "Unit 12",
+    "type": "multiple_choice",
+    "question": "Let's fly a kite. ________!",
+    "options": [
+      "No",
+      "Bad idea",
+      "Great idea",
+      "Not good"
+    ],
+    "correct": 2,
+    "explanation": "Đáp lại lời đề nghị 'Let's...' tích cực bằng 'Great idea!' (Ý tưởng hay!)"
+  },
+  {
+    "id": 106,
+    "curriculum": "SKET6",
+    "unit": "Unit 12",
+    "type": "multiple_choice",
+    "question": "We're ________ the park.",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "by"
+    ],
+    "correct": 2,
+    "explanation": "Dùng 'in' với công viên (khu vực có diện tích): 'We're in the park.'"
+  },
+  {
+    "id": 107,
+    "curriculum": "SKET6",
+    "unit": "Unit 12",
+    "type": "fill_in_blank",
+    "question": "We ________ at school. We're at the beach.",
+    "word_bank": [
+      "aren't",
+      "isn't",
+      "weren't",
+      "don't"
+    ],
+    "correct": "aren't",
+    "explanation": "Phủ định 'We are' → 'We aren't'. Chủ ngữ 'we' dùng 'aren't'."
+  },
+  {
+    "id": 108,
+    "curriculum": "SKET6",
+    "unit": "Unit 12",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "fly a kite",
+        "meaning": "thả diều"
+      },
+      {
+        "word": "make a cake",
+        "meaning": "làm bánh"
+      },
+      {
+        "word": "sing a song",
+        "meaning": "hát bài hát"
+      },
+      {
+        "word": "write a story",
+        "meaning": "viết một câu chuyện"
+      }
+    ],
+    "explanation": "fly a kite=thả diều, make a cake=làm bánh, sing a song=hát bài hát, write a story=viết câu chuyện."
+  },
+  {
+    "id": 109,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "A farmer ________ food.",
+    "options": [
+      "grow",
+      "grows",
+      "is grow",
+      "growing"
+    ],
+    "correct": 1,
+    "explanation": "Ngôi 3 số ít (a farmer) + động từ thường → thêm '-s': 'grows'. Hiện tại đơn."
+  },
+  {
+    "id": 110,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "A taxi driver ________ score goals.",
+    "options": [
+      "don't",
+      "doesn't",
+      "isn't",
+      "not"
+    ],
+    "correct": 1,
+    "explanation": "Phủ định ngôi 3 số ít (a taxi driver): 'doesn't + V nguyên thể'. 'doesn't score goals.'"
+  },
+  {
+    "id": 111,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "Does she grow food? ________, she does.",
+    "options": [
+      "No",
+      "Yes",
+      "She",
+      "Not"
+    ],
+    "correct": 1,
+    "explanation": "Trả lời khẳng định: 'Yes, she does.' Dùng 'does' vì hỏi bằng 'Does'."
+  },
+  {
+    "id": 112,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "What does your grandpa do? He's a ________.",
+    "word_bank": [
+      "teacher",
+      "teaches",
+      "teaching",
+      "teach"
+    ],
+    "correct": "teacher",
+    "explanation": "Câu hỏi về nghề nghiệp: 'What does he do?' → 'He's a + danh từ nghề nghiệp.'"
+  },
+  {
+    "id": 113,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "A builder ________ houses.",
+    "word_bank": [
+      "builds",
+      "build",
+      "is build",
+      "building"
+    ],
+    "correct": "builds",
+    "explanation": "Ngôi 3 số ít (a builder) hiện tại đơn → 'build' thêm '-s' = 'builds'."
+  },
+  {
+    "id": 114,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "matching",
+    "question": "Nối nghề nghiệp với việc làm:",
+    "pairs": [
+      {
+        "word": "doctor",
+        "meaning": "helps sick people"
+      },
+      {
+        "word": "farmer",
+        "meaning": "grows food"
+      },
+      {
+        "word": "builder",
+        "meaning": "builds houses"
+      },
+      {
+        "word": "soccer player",
+        "meaning": "scores goals"
+      }
+    ],
+    "explanation": "doctor=giúp người bệnh, farmer=trồng thực phẩm, builder=xây nhà, soccer player=ghi bàn."
+  },
+  {
+    "id": 115,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "grow",
+      "doesn't",
+      "she",
+      "oranges"
+    ],
+    "correct": [
+      "she",
+      "doesn't",
+      "grow",
+      "oranges"
+    ],
+    "explanation": "Phủ định ngôi 3 số ít: Subject + doesn't + V nguyên thể + object. → 'She doesn't grow oranges.'"
+  },
+  {
+    "id": 116,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "error_correction",
+    "question": "Does she grows food? Yes, she does.",
+    "options": [
+      "grows → grow",
+      "Does → Do",
+      "she → he",
+      "Yes → No"
+    ],
+    "correct": 0,
+    "explanation": "Sau 'Does' trong câu hỏi, động từ dùng nguyên thể: 'Does she grow?' không phải 'grows'."
+  },
+  {
+    "id": 117,
+    "curriculum": "SKET7",
+    "unit": "Unit 2",
+    "type": "multiple_choice",
+    "question": "What time ________ you get up?",
+    "options": [
+      "does",
+      "do",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "explanation": "Câu hỏi hiện tại đơn với 'you': 'What time do you + V?' Dùng 'do' với I/you/we/they."
+  },
+  {
+    "id": 118,
+    "curriculum": "SKET7",
+    "unit": "Unit 2",
+    "type": "multiple_choice",
+    "question": "What time does she go to bed? She ________ to bed at ten o'clock.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correct": 1,
+    "explanation": "Ngôi 3 số ít (she) hiện tại đơn → 'go' thêm '-es' = 'goes'. Quy tắc động từ đuôi -o."
+  },
+  {
+    "id": 119,
+    "curriculum": "SKET7",
+    "unit": "Unit 2",
+    "type": "fill_in_blank",
+    "question": "I ________ breakfast at seven o'clock every morning.",
+    "word_bank": [
+      "eat",
+      "eats",
+      "eating",
+      "ate"
+    ],
+    "correct": "eat",
+    "explanation": "Chủ ngữ 'I' + hiện tại đơn → dùng động từ nguyên thể: 'I eat breakfast'."
+  },
+  {
+    "id": 120,
+    "curriculum": "SKET7",
+    "unit": "Unit 2",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "get up",
+        "meaning": "thức dậy"
+      },
+      {
+        "word": "go to bed",
+        "meaning": "đi ngủ"
+      },
+      {
+        "word": "eat breakfast",
+        "meaning": "ăn sáng"
+      },
+      {
+        "word": "do homework",
+        "meaning": "làm bài tập"
+      }
+    ],
+    "explanation": "get up=thức dậy, go to bed=đi ngủ, eat breakfast=ăn sáng, do homework=làm bài tập."
+  },
+  {
+    "id": 121,
+    "curriculum": "SKET7",
+    "unit": "Unit 2",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "get",
+      "you",
+      "up",
+      "do",
+      "what",
+      "time"
+    ],
+    "correct": [
+      "what",
+      "time",
+      "do",
+      "you",
+      "get",
+      "up"
+    ],
+    "explanation": "Câu hỏi về thời gian: 'What time do you get up?' → What time + do/does + S + V?"
+  },
+  {
+    "id": 122,
+    "curriculum": "SKET7",
+    "unit": "Unit 2",
+    "type": "error_correction",
+    "question": "What time do she eat dinner?",
+    "options": [
+      "do → does",
+      "eat → eats",
+      "dinner → lunch",
+      "she → her"
+    ],
+    "correct": 0,
+    "explanation": "Chủ ngữ 'she' là ngôi 3 số ít → câu hỏi dùng 'does', không dùng 'do'."
+  },
+  {
+    "id": 123,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "There are ________ eggs in the fridge.",
+    "options": [
+      "a",
+      "an",
+      "some",
+      "any"
+    ],
+    "correct": 2,
+    "explanation": "Danh từ đếm được số nhiều trong câu khẳng định → dùng 'some': 'There are some eggs.'"
+  },
+  {
+    "id": 124,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "There isn't ________ juice in the vending machine.",
+    "options": [
+      "some",
+      "any",
+      "a",
+      "an"
+    ],
+    "correct": 1,
+    "explanation": "Câu phủ định và câu hỏi → dùng 'any': 'There isn't any juice.'"
+  },
+  {
+    "id": 125,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "Is there ________ milk? Yes, there is.",
+    "options": [
+      "some",
+      "any",
+      "a",
+      "much"
+    ],
+    "correct": 1,
+    "explanation": "Câu hỏi với danh từ không đếm được → dùng 'any': 'Is there any milk?'"
+  },
+  {
+    "id": 126,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "fill_in_blank",
+    "question": "There ________ a mango on the table.",
+    "word_bank": [
+      "are",
+      "is",
+      "have",
+      "has"
+    ],
+    "correct": "is",
+    "explanation": "'A mango' là danh từ số ít → 'There is a mango.'"
+  },
+  {
+    "id": 127,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "fill_in_blank",
+    "question": "There aren't ________ sausages in the fridge.",
+    "word_bank": [
+      "any",
+      "some",
+      "a",
+      "the"
+    ],
+    "correct": "any",
+    "explanation": "Câu phủ định số nhiều → dùng 'any': 'There aren't any sausages.'"
+  },
+  {
+    "id": 128,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "grapes",
+        "meaning": "nho"
+      },
+      {
+        "word": "pear",
+        "meaning": "quả lê"
+      },
+      {
+        "word": "sausage",
+        "meaning": "xúc xích"
+      },
+      {
+        "word": "cheese",
+        "meaning": "phô mai"
+      }
+    ],
+    "explanation": "grapes=nho, pear=quả lê, sausage=xúc xích, cheese=phô mai."
+  },
+  {
+    "id": 129,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "any",
+      "aren't",
+      "grapes",
+      "there"
+    ],
+    "correct": [
+      "there",
+      "aren't",
+      "any",
+      "grapes"
+    ],
+    "explanation": "Câu phủ định số nhiều: 'There aren't any grapes.' → There + aren't + any + danh từ số nhiều."
+  },
+  {
+    "id": 130,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "error_correction",
+    "question": "There are some cheese on the plate.",
+    "options": [
+      "are → is",
+      "some → any",
+      "on → in",
+      "cheese → cheeses"
+    ],
+    "correct": 0,
+    "explanation": "'Cheese' là danh từ không đếm được → số ít → 'There is some cheese.' Không dùng 'are'."
+  },
+  {
+    "id": 131,
+    "curriculum": "SKET7",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "What are you doing? I'm ________ photos.",
+    "options": [
+      "take",
+      "takes",
+      "taking",
+      "took"
+    ],
+    "correct": 2,
+    "explanation": "Thì hiện tại tiếp diễn: Subject + am/is/are + V-ing. 'I'm taking photos.'"
+  },
+  {
+    "id": 132,
+    "curriculum": "SKET7",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "My cousin ________ the guitar right now.",
+    "options": [
+      "play",
+      "plays",
+      "is playing",
+      "playing"
+    ],
+    "correct": 2,
+    "explanation": "Hành động đang xảy ra ('right now') → thì hiện tại tiếp diễn: 'is playing'."
+  },
+  {
+    "id": 133,
+    "curriculum": "SKET7",
+    "unit": "Unit 4",
+    "type": "fill_in_blank",
+    "question": "They ________ holding balloons at the party.",
+    "word_bank": [
+      "are",
+      "is",
+      "am",
+      "were"
+    ],
+    "correct": "are",
+    "explanation": "'They' là số nhiều → thì hiện tại tiếp diễn dùng 'are': 'They are holding...' → 'They're holding.'"
+  },
+  {
+    "id": 134,
+    "curriculum": "SKET7",
+    "unit": "Unit 4",
+    "type": "fill_in_blank",
+    "question": "What is she doing? She ________ dancing to music.",
+    "word_bank": [
+      "is",
+      "are",
+      "am",
+      "was"
+    ],
+    "correct": "is",
+    "explanation": "'She' là ngôi 3 số ít → thì hiện tại tiếp diễn dùng 'is': 'She is dancing.'"
+  },
+  {
+    "id": 135,
+    "curriculum": "SKET7",
+    "unit": "Unit 4",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "balloon",
+        "meaning": "bóng bay"
+      },
+      {
+        "word": "lemonade",
+        "meaning": "nước chanh"
+      },
+      {
+        "word": "festival",
+        "meaning": "lễ hội"
+      },
+      {
+        "word": "take photos",
+        "meaning": "chụp ảnh"
+      }
+    ],
+    "explanation": "balloon=bóng bay, lemonade=nước chanh, festival=lễ hội, take photos=chụp ảnh."
+  },
+  {
+    "id": 136,
+    "curriculum": "SKET7",
+    "unit": "Unit 4",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "drinking",
+      "we're",
+      "lemonade"
+    ],
+    "correct": [
+      "we're",
+      "drinking",
+      "lemonade"
+    ],
+    "explanation": "Thì hiện tại tiếp diễn: 'We're drinking lemonade.' → We're + V-ing + object."
+  },
+  {
+    "id": 137,
+    "curriculum": "SKET7",
+    "unit": "Unit 4",
+    "type": "error_correction",
+    "question": "She is take photos at the party.",
+    "options": [
+      "take → taking",
+      "is → are",
+      "at → in",
+      "the → a"
+    ],
+    "correct": 0,
+    "explanation": "Thì hiện tại tiếp diễn: 'is/are + V-ing'. Phải viết 'taking', không phải 'take'."
+  },
+  {
+    "id": 138,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "Where are you from? I'm ________ Vietnam.",
+    "options": [
+      "at",
+      "in",
+      "from",
+      "to"
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc hỏi quê hương: 'Where are you from?' → 'I'm from + tên nước.'"
+  },
+  {
+    "id": 139,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "Are you from Poland? No, ________ aren't. We're from Spain.",
+    "options": [
+      "I",
+      "we",
+      "they",
+      "you"
+    ],
+    "correct": 1,
+    "explanation": "Câu hỏi 'Are you (số nhiều)...' → trả lời bằng 'we'. 'No, we aren't.'"
+  },
+  {
+    "id": 140,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "________ favorite animals are giraffes.",
+    "options": [
+      "Our",
+      "We",
+      "Us",
+      "Ours"
+    ],
+    "correct": 0,
+    "explanation": "Trước danh từ dùng tính từ sở hữu: 'Our' (của chúng tôi/ta), không dùng đại từ 'We'."
+  },
+  {
+    "id": 141,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "________ grandparents' house is in Germany.",
+    "options": [
+      "They",
+      "Them",
+      "Their",
+      "Theirs"
+    ],
+    "correct": 2,
+    "explanation": "Trước danh từ dùng tính từ sở hữu: 'Their' (của họ), không dùng đại từ 'They'."
+  },
+  {
+    "id": 142,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "What's ________ name of your favorite singer?",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "X"
+    ],
+    "correct": 2,
+    "explanation": "Cấu trúc cố định: 'What's the name of...?' Dùng 'the' trước 'name'."
+  },
+  {
+    "id": 143,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "Is soccer from the UK? ________, it is.",
+    "options": [
+      "No",
+      "Yes",
+      "Not",
+      "It"
+    ],
+    "correct": 1,
+    "explanation": "Trả lời khẳng định câu hỏi Yes/No: 'Yes, it is.'"
+  },
+  {
+    "id": 144,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "Where are koalas from? They're from ________.",
+    "word_bank": [
+      "Australia",
+      "Brazil",
+      "Japan",
+      "Poland"
+    ],
+    "correct": "Australia",
+    "explanation": "Koala là động vật đặc trưng của Australia (Úc). 'They're from Australia.'"
+  },
+  {
+    "id": 145,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "His cousins ________ in Australia.",
+    "word_bank": [
+      "are",
+      "is",
+      "am",
+      "be"
+    ],
+    "correct": "are",
+    "explanation": "'His cousins' là số nhiều → dùng 'are' (thì hiện tại đơn của 'to be')."
+  },
+  {
+    "id": 146,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "What's your mother's name? ________ name is Lan.",
+    "word_bank": [
+      "Her",
+      "His",
+      "My",
+      "Their"
+    ],
+    "correct": "Her",
+    "explanation": "Mother là nữ → dùng 'Her' (tính từ sở hữu ngôi 3 số ít, giống cái)."
+  },
+  {
+    "id": 147,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "________ parents are from Germany and Australia.",
+    "word_bank": [
+      "Our",
+      "We",
+      "Us",
+      "Ours"
+    ],
+    "correct": "Our",
+    "explanation": "Trước danh từ 'parents' dùng tính từ sở hữu 'Our' (của chúng tôi)."
+  },
+  {
+    "id": 148,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "matching",
+    "question": "Nối quốc gia với châu lục/vùng lãnh thổ:",
+    "pairs": [
+      {
+        "word": "Brazil",
+        "meaning": "South America"
+      },
+      {
+        "word": "Japan",
+        "meaning": "Asia"
+      },
+      {
+        "word": "Italy",
+        "meaning": "Europe"
+      },
+      {
+        "word": "Australia",
+        "meaning": "Oceania"
+      }
+    ],
+    "explanation": "Brazil ở Nam Mỹ, Japan ở Châu Á, Italy ở Châu Âu, Australia ở Châu Đại Dương."
+  },
+  {
+    "id": 149,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "matching",
+    "question": "Nối tính từ sở hữu với đại từ nhân xưng tương ứng:",
+    "pairs": [
+      {
+        "word": "my",
+        "meaning": "I"
+      },
+      {
+        "word": "your",
+        "meaning": "you"
+      },
+      {
+        "word": "their",
+        "meaning": "they"
+      },
+      {
+        "word": "our",
+        "meaning": "we"
+      }
+    ],
+    "explanation": "I→my, you→your, they→their, we→our. Tính từ sở hữu đứng trước danh từ."
+  },
+  {
+    "id": 150,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "from",
+      "are",
+      "where",
+      "you"
+    ],
+    "correct": [
+      "where",
+      "are",
+      "you",
+      "from"
+    ],
+    "explanation": "Câu hỏi về quê hương: 'Where are you from?' → Where + are + subject + from?"
+  },
+  {
+    "id": 151,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "giraffes",
+      "animals",
+      "favorite",
+      "their",
+      "are"
+    ],
+    "correct": [
+      "their",
+      "favorite",
+      "animals",
+      "are",
+      "giraffes"
+    ],
+    "explanation": "Câu với tính từ sở hữu: 'Their favorite animals are giraffes.' → Their + adj + noun + are + noun."
+  },
+  {
+    "id": 152,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "from",
+      "she's",
+      "Brazil"
+    ],
+    "correct": [
+      "she's",
+      "from",
+      "Brazil"
+    ],
+    "explanation": "Câu trả lời về quê hương: 'She's from Brazil.' → Subject + is/are + from + tên nước."
+  },
+  {
+    "id": 153,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "error_correction",
+    "question": "Where is you from? I'm from Japan.",
+    "options": [
+      "is → are",
+      "from → of",
+      "I'm → Im",
+      "Japan → Japanese"
+    ],
+    "correct": 0,
+    "explanation": "Chủ ngữ 'you' → phải dùng 'are': 'Where are you from?' Không dùng 'is' với 'you'."
+  },
+  {
+    "id": 154,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "error_correction",
+    "question": "They favorite animals are lions.",
+    "options": [
+      "They → Their",
+      "are → is",
+      "animals → animal",
+      "lions → lion"
+    ],
+    "correct": 0,
+    "explanation": "Trước danh từ 'favorite animals' phải dùng tính từ sở hữu 'Their', không dùng đại từ 'They'."
+  },
+  {
+    "id": 155,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "error_correction",
+    "question": "What's you mother's name?",
+    "options": [
+      "you → your",
+      "What's → What",
+      "mother's → mothers",
+      "name → names"
+    ],
+    "correct": 0,
+    "explanation": "Trước danh từ 'mother' phải dùng tính từ sở hữu 'your', không dùng 'you'."
+  },
+  {
+    "id": 156,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "A zebra is ________ than a lion.",
+    "options": [
+      "slow",
+      "slower",
+      "more slow",
+      "slowest"
+    ],
+    "correct": 1,
+    "explanation": "'slow' là tính từ 1 âm tiết → so sánh hơn thêm '-er': 'slower'."
+  },
+  {
+    "id": 157,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "________ you looking at that giraffe? Yes, I am.",
+    "options": [
+      "Is",
+      "Are",
+      "Do",
+      "Am"
+    ],
+    "correct": 1,
+    "explanation": "Câu hỏi hiện tại tiếp diễn với 'you': 'Are you + V-ing?'"
+  },
+  {
+    "id": 158,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "Is a hippo bigger than a zebra? ________, it is.",
+    "word_bank": [
+      "Yes",
+      "No",
+      "It",
+      "Not"
+    ],
+    "correct": "Yes",
+    "explanation": "Hippo to hơn zebra nên trả lời 'Yes, it is.'"
+  },
+  {
+    "id": 159,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "than",
+      "longer",
+      "is",
+      "a monkey",
+      "a snake"
+    ],
+    "correct": [
+      "a snake",
+      "is",
+      "longer",
+      "than",
+      "a monkey"
+    ],
+    "explanation": "'A snake is longer than a monkey.' → Subject + is + adj-er + than + object."
+  },
+  {
+    "id": 160,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "error_correction",
+    "question": "Are the zebras drink? No, they aren't.",
+    "options": [
+      "drink → drinking",
+      "Are → Is",
+      "they → it",
+      "No → Yes"
+    ],
+    "correct": 0,
+    "explanation": "Thì hiện tại tiếp diễn cần V-ing: 'Are the zebras drinking?' không phải 'drink'."
+  },
+  {
+    "id": 161,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "multiple_choice",
+    "question": "It's hot today. ________ your coat.",
+    "options": [
+      "Wear",
+      "Don't wear",
+      "Put",
+      "Bring"
+    ],
+    "correct": 1,
+    "explanation": "Khi trời nóng, mặc áo khoác sẽ không phù hợp → câu mệnh lệnh phủ định: 'Don't wear your coat.'"
+  },
+  {
+    "id": 162,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "fill_in_blank",
+    "question": "What's the weather like on Tuesday? It's ________.",
+    "word_bank": [
+      "windy",
+      "wind",
+      "winds",
+      "winding"
+    ],
+    "correct": "windy",
+    "explanation": "Tính từ mô tả thời tiết: 'wind' → 'windy' (thêm -y). 'It's windy.'"
+  },
+  {
+    "id": 163,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "scarf",
+      "put",
+      "your",
+      "on"
+    ],
+    "correct": [
+      "put",
+      "on",
+      "your",
+      "scarf"
+    ],
+    "explanation": "Câu mệnh lệnh: 'Put on your scarf.' → Put + on + your + noun."
+  },
+  {
+    "id": 164,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "cloudy",
+        "meaning": "nhiều mây"
+      },
+      {
+        "word": "snowing",
+        "meaning": "đang có tuyết"
+      },
+      {
+        "word": "sunny",
+        "meaning": "trời nắng"
+      },
+      {
+        "word": "windy",
+        "meaning": "có gió"
+      }
+    ],
+    "explanation": "cloudy=nhiều mây, snowing=đang có tuyết, sunny=trời nắng, windy=có gió."
+  },
+  {
+    "id": 165,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "Where does the bus go? It ________ to the library.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correct": 1,
+    "explanation": "Ngôi 3 số ít (the bus / it) hiện tại đơn → 'go' + 'es' = 'goes'."
+  },
+  {
+    "id": 166,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "fill_in_blank",
+    "question": "There are two ________ at the door.",
+    "word_bank": [
+      "mice",
+      "mouses",
+      "mouse",
+      "mices"
+    ],
+    "correct": "mice",
+    "explanation": "Số nhiều không quy tắc của 'mouse' là 'mice'."
+  },
+  {
+    "id": 167,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "matching",
+    "question": "Nối từ gốc với dạng số nhiều:",
+    "pairs": [
+      {
+        "word": "baby",
+        "meaning": "babies"
+      },
+      {
+        "word": "box",
+        "meaning": "boxes"
+      },
+      {
+        "word": "foot",
+        "meaning": "feet"
+      },
+      {
+        "word": "man",
+        "meaning": "men"
+      }
+    ],
+    "explanation": "baby→babies (-y→ies), box→boxes (-x→xes), foot→feet (bất quy tắc), man→men (bất quy tắc)."
+  },
+  {
+    "id": 168,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "bike",
+      "are",
+      "you",
+      "a",
+      "riding"
+    ],
+    "correct": [
+      "are",
+      "you",
+      "riding",
+      "a",
+      "bike"
+    ],
+    "explanation": "Câu hỏi thì hiện tại tiếp diễn: 'Are you riding a bike?' → Are + you + V-ing + object?"
+  },
+  {
+    "id": 169,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "error_correction",
+    "question": "There are five womans on the bus.",
+    "options": [
+      "womans → women",
+      "are → is",
+      "five → fifth",
+      "on → in"
+    ],
+    "correct": 0,
+    "explanation": "Số nhiều không quy tắc: 'woman' → 'women'. Không thêm '-s' vào 'woman'."
+  },
+  {
+    "id": 170,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "Before my bath, I wasn't clean. Now, I ________ clean!",
+    "options": [
+      "was",
+      "am",
+      "were",
+      "is"
+    ],
+    "correct": 1,
+    "explanation": "'Now' chỉ hiện tại → dùng 'am' (I am clean). 'Before' → quá khứ → 'wasn't'."
+  },
+  {
+    "id": 171,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "fill_in_blank",
+    "question": "When you were little, what ________ you like?",
+    "word_bank": [
+      "were",
+      "was",
+      "are",
+      "is"
+    ],
+    "correct": "were",
+    "explanation": "Câu hỏi quá khứ với 'you': 'What were you like?' Dùng 'were' với you."
+  },
+  {
+    "id": 172,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "naughty",
+      "were",
+      "the students",
+      "some",
+      "of"
+    ],
+    "correct": [
+      "some",
+      "of",
+      "the students",
+      "were",
+      "naughty"
+    ],
+    "explanation": "'Some of the students were naughty.' → Some of + the + noun + were + adjective."
+  },
+  {
+    "id": 173,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "naughty",
+        "meaning": "nghịch ngợm"
+      },
+      {
+        "word": "quiet",
+        "meaning": "yên lặng/nhút nhát"
+      },
+      {
+        "word": "smart",
+        "meaning": "thông minh"
+      },
+      {
+        "word": "kind",
+        "meaning": "tốt bụng"
+      }
+    ],
+    "explanation": "naughty=nghịch ngợm, quiet=yên lặng, smart=thông minh, kind=tốt bụng."
+  },
+  {
+    "id": 174,
+    "curriculum": "SKET6",
+    "unit": "Review",
+    "type": "multiple_choice",
+    "question": "Are there sandcastles on the beach? Yes, ________.",
+    "options": [
+      "it is",
+      "there are",
+      "they are",
+      "there is"
+    ],
+    "correct": 1,
+    "explanation": "Trả lời 'Are there...?' khẳng định: 'Yes, there are.' (không dùng 'they are' cho 'there are')."
+  },
+  {
+    "id": 175,
+    "curriculum": "SKET6",
+    "unit": "Review",
+    "type": "multiple_choice",
+    "question": "Can an elephant fly? No, ________.",
+    "options": [
+      "it can",
+      "it can't",
+      "they can't",
+      "can't it"
+    ],
+    "correct": 1,
+    "explanation": "Voi không thể bay → 'No, it can't.' ('A/An elephant' → 'it')"
+  },
+  {
+    "id": 176,
+    "curriculum": "SKET6",
+    "unit": "Review",
+    "type": "fill_in_blank",
+    "question": "What color is his hair? ________ yellow.",
+    "word_bank": [
+      "It's",
+      "They're",
+      "He's",
+      "She's"
+    ],
+    "correct": "It's",
+    "explanation": "'Hair' là danh từ số ít/không đếm được → trả lời bằng 'It's' (it is)."
+  },
+  {
+    "id": 177,
+    "curriculum": "SKET7",
+    "unit": "Review",
+    "type": "multiple_choice",
+    "question": "Does your aunt work with other people? ________, she doesn't.",
+    "options": [
+      "Yes",
+      "No",
+      "Not",
+      "She"
+    ],
+    "correct": 1,
+    "explanation": "Câu phủ định: 'No, she doesn't.' Bắt đầu bằng 'No' rồi đến 'she doesn't'."
+  },
+  {
+    "id": 178,
+    "curriculum": "SKET7",
+    "unit": "Review",
+    "type": "fill_in_blank",
+    "question": "What time do they go to bed? ________ go to bed at ten o'clock.",
+    "word_bank": [
+      "They",
+      "He",
+      "She",
+      "It"
+    ],
+    "correct": "They",
+    "explanation": "Câu hỏi dùng 'they' → trả lời dùng 'They'. 'They go to bed at ten o'clock.'"
+  },
+  {
+    "id": 179,
+    "curriculum": "SKET7",
+    "unit": "Review",
+    "type": "multiple_choice",
+    "question": "Is there any chicken in the vending machine? Yes, ________.",
+    "options": [
+      "there are",
+      "there is",
+      "it is",
+      "they are"
+    ],
+    "correct": 1,
+    "explanation": "Hỏi 'Is there any...?' (danh từ không đếm được) → trả lời: 'Yes, there is.'"
+  },
+  {
+    "id": 180,
+    "curriculum": "SKET8",
+    "unit": "Review",
+    "type": "multiple_choice",
+    "question": "You ________ at home this morning, but your classmates were at the museum.",
+    "options": [
+      "were",
+      "was",
+      "are",
+      "is"
+    ],
+    "correct": 0,
+    "explanation": "'You' dùng với 'were' trong quá khứ đơn của 'to be'."
+  },
+  {
+    "id": 181,
+    "curriculum": "SKET8",
+    "unit": "Review",
+    "type": "fill_in_blank",
+    "question": "How do you get to school? I ________ by plane.",
+    "word_bank": [
+      "go",
+      "goes",
+      "went",
+      "going"
+    ],
+    "correct": "go",
+    "explanation": "Chủ ngữ 'I' + hiện tại đơn → động từ nguyên thể: 'I go by plane.'"
+  },
+  {
+    "id": 182,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "Luca is my brother. ________ brother is twelve.",
+    "options": [
+      "My",
+      "Her",
+      "Your",
+      "His"
+    ],
+    "correct": 2,
+    "explanation": "Người kể chuyện đang nói với người nghe → dùng 'Your brother is twelve.' (nói với đối phương về anh của đối phương)."
+  },
+  {
+    "id": 183,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "What's the name of your teddy bear?",
+    "options": [
+      "His name is Teddy.",
+      "It's Teddy.",
+      "Teddy is my.",
+      "Name Teddy."
+    ],
+    "correct": 1,
+    "explanation": "Trả lời câu hỏi 'What's the name of...?' bằng 'It's + tên'. Teddy bear là đồ vật nên dùng 'it'."
+  },
+  {
+    "id": 184,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "from",
+      "is",
+      "soccer",
+      "the UK"
+    ],
+    "correct": [
+      "is",
+      "soccer",
+      "from",
+      "the UK"
+    ],
+    "explanation": "'Is soccer from the UK?' hoặc 'Soccer is from the UK.' → Câu trả lời/câu kể: Soccer is from the UK."
+  },
+  {
+    "id": 185,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "error_correction",
+    "question": "Our parents are from Germany and Australia. We parents are giraffe experts.",
+    "options": [
+      "We → Our",
+      "are → is",
+      "giraffe → giraffes",
+      "and → or"
+    ],
+    "correct": 0,
+    "explanation": "Trước danh từ 'parents' phải dùng tính từ sở hữu 'Our', không dùng đại từ 'We'."
+  },
+  {
+    "id": 186,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "matching",
+    "question": "Nối quốc gia với tên tiếng Việt:",
+    "pairs": [
+      {
+        "word": "Argentina",
+        "meaning": "Ac-hen-ti-na"
+      },
+      {
+        "word": "Poland",
+        "meaning": "Ba Lan"
+      },
+      {
+        "word": "Spain",
+        "meaning": "Tây Ban Nha"
+      },
+      {
+        "word": "the UK",
+        "meaning": "Vương quốc Anh"
+      }
+    ],
+    "explanation": "Argentina=Ac-hen-ti-na, Poland=Ba Lan, Spain=Tây Ban Nha, the UK=Vương quốc Anh."
+  },
+  {
+    "id": 187,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "What does your grandpa do? He's ________ teacher.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "X"
+    ],
+    "correct": 0,
+    "explanation": "Trước danh từ chỉ nghề nghiệp bắt đầu bằng phụ âm dùng 'a': 'a teacher'."
+  },
+  {
+    "id": 188,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "Mom ________ math. She doesn't teach art.",
+    "word_bank": [
+      "teaches",
+      "teach",
+      "teaching",
+      "is teach"
+    ],
+    "correct": "teaches",
+    "explanation": "Ngôi 3 số ít (Mom/she) hiện tại đơn: 'teach' + '-es' = 'teaches'."
+  },
+  {
+    "id": 189,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "inside",
+      "work",
+      "doesn't",
+      "she"
+    ],
+    "correct": [
+      "she",
+      "doesn't",
+      "work",
+      "inside"
+    ],
+    "explanation": "Phủ định ngôi 3 số ít: 'She doesn't work inside.' → S + doesn't + V + nơi chốn."
+  },
+  {
+    "id": 190,
+    "curriculum": "SKET7",
+    "unit": "Unit 2",
+    "type": "fill_in_blank",
+    "question": "What time does she go to the yard? She ________ to the yard at three o'clock.",
+    "word_bank": [
+      "goes",
+      "go",
+      "going",
+      "gone"
+    ],
+    "correct": "goes",
+    "explanation": "Ngôi 3 số ít (she) hiện tại đơn: 'go' + 'es' = 'goes'."
+  },
+  {
+    "id": 191,
+    "curriculum": "SKET7",
+    "unit": "Unit 2",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "Messy",
+      "do",
+      "and",
+      "you",
+      "eat breakfast",
+      "what time"
+    ],
+    "correct": [
+      "what time",
+      "do",
+      "you",
+      "and",
+      "Messy",
+      "eat breakfast"
+    ],
+    "explanation": "Câu hỏi thời gian: 'What time do you and Messy eat breakfast?' → What time + do + subjects + verb?"
+  },
+  {
+    "id": 192,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "error_correction",
+    "question": "Is there a pear? No, there isn't any.",
+    "options": [
+      "isn't any → isn't",
+      "Is → Are",
+      "a → some",
+      "pear → pears"
+    ],
+    "correct": 0,
+    "explanation": "'Is there a pear?' là hỏi về một quả lê cụ thể (số ít) → trả lời: 'No, there isn't.' Không thêm 'any'."
+  },
+  {
+    "id": 193,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "fill_in_blank",
+    "question": "There's ________ milk in the glass.",
+    "word_bank": [
+      "some",
+      "any",
+      "a",
+      "an"
+    ],
+    "correct": "some",
+    "explanation": "Câu khẳng định với danh từ không đếm được → dùng 'some': 'There's some milk.'"
+  },
+  {
+    "id": 194,
+    "curriculum": "SKET7",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "Can I drink this juice? No, ________.",
+    "options": [
+      "you can",
+      "you can't",
+      "I can't",
+      "can't you"
+    ],
+    "correct": 1,
+    "explanation": "Trả lời lời xin phép 'Can I...?' phủ định: 'No, you can't.' (nói với người hỏi)."
+  },
+  {
+    "id": 195,
+    "curriculum": "SKET7",
+    "unit": "Unit 4",
+    "type": "fill_in_blank",
+    "question": "I'm ________ so happy today!",
+    "word_bank": [
+      "feeling",
+      "feel",
+      "feels",
+      "felt"
+    ],
+    "correct": "feeling",
+    "explanation": "Thì hiện tại tiếp diễn: 'I'm + V-ing'. 'I'm feeling so happy!'"
+  },
+  {
+    "id": 196,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "matching",
+    "question": "Nối từ với nghĩa đúng:",
+    "pairs": [
+      {
+        "word": "crocodile",
+        "meaning": "con cá sấu"
+      },
+      {
+        "word": "hippo",
+        "meaning": "con hà mã"
+      },
+      {
+        "word": "rhino",
+        "meaning": "con tê giác"
+      },
+      {
+        "word": "zebra",
+        "meaning": "con ngựa vằn"
+      }
+    ],
+    "explanation": "crocodile=cá sấu, hippo=hà mã, rhino=tê giác, zebra=ngựa vằn."
+  },
+  {
+    "id": 197,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "error_correction",
+    "question": "Bigger raindrops make more bright rainbows.",
+    "options": [
+      "more bright → brighter",
+      "Bigger → More big",
+      "make → makes",
+      "raindrops → raindrop"
+    ],
+    "correct": 0,
+    "explanation": "'bright' là tính từ 1 âm tiết → so sánh hơn dùng '-er': 'brighter', không dùng 'more bright'."
+  },
+  {
+    "id": 198,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "Are you from Japan? Yes, ________ am.",
+    "word_bank": [
+      "I",
+      "we",
+      "they",
+      "she"
+    ],
+    "correct": "I",
+    "explanation": "Câu hỏi 'Are you (số ít)...' → trả lời: 'Yes, I am.' Dùng 'I' vì hỏi một người."
+  },
+  {
+    "id": 199,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "________ favorite giraffe is Melvin.",
+    "options": [
+      "She",
+      "Her",
+      "Hers",
+      "Him"
+    ],
+    "correct": 1,
+    "explanation": "Trước danh từ 'favorite giraffe' dùng tính từ sở hữu: 'Her' (của cô ấy)."
+  },
+  {
+    "id": 200,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "house",
+      "is",
+      "their grandparents'",
+      "in Germany"
+    ],
+    "correct": [
+      "their grandparents'",
+      "house",
+      "is",
+      "in Germany"
+    ],
+    "explanation": "'Their grandparents' house is in Germany.' → Sở hữu cách: Their grandparents' + house + is + nơi chốn."
+  },
+  {
+    "id": 201,
+    "curriculum": "SKET6",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "What's this? ________ a crayon.",
+    "options": [
+      "Its",
+      "It's",
+      "This's",
+      "That"
+    ],
+    "correct": 1,
+    "explanation": "'It's' = It is. Trả lời câu hỏi 'What's this?' bằng 'It's + tên đồ vật'."
+  },
+  {
+    "id": 202,
+    "curriculum": "SKET6",
+    "unit": "Unit 2",
+    "type": "multiple_choice",
+    "question": "This is my ________. It's fun to play.",
+    "options": [
+      "train",
+      "trains",
+      "a train",
+      "the trains"
+    ],
+    "correct": 0,
+    "explanation": "Sau tính từ sở hữu 'my' dùng danh từ không có mạo từ: 'my train'."
+  },
+  {
+    "id": 203,
+    "curriculum": "SKET6",
+    "unit": "Unit 5",
+    "type": "multiple_choice",
+    "question": "________ are my feet.",
+    "options": [
+      "This",
+      "That",
+      "These",
+      "Those"
+    ],
+    "correct": 2,
+    "explanation": "'Feet' là số nhiều, gần người nói → dùng 'These' (những cái này)."
+  },
+  {
+    "id": 204,
+    "curriculum": "SKET6",
+    "unit": "Unit 6",
+    "type": "multiple_choice",
+    "question": "Where's the shower? It's in the ________.",
+    "options": [
+      "kitchen",
+      "bedroom",
+      "bathroom",
+      "living room"
+    ],
+    "correct": 2,
+    "explanation": "Vòi tắm hoa sen (shower) thường ở phòng tắm (bathroom)."
+  },
+  {
+    "id": 205,
+    "curriculum": "SKET6",
+    "unit": "Unit 8",
+    "type": "multiple_choice",
+    "question": "A bird ________ fly.",
+    "options": [
+      "can",
+      "can't",
+      "doesn't",
+      "isn't"
+    ],
+    "correct": 0,
+    "explanation": "Chim có thể bay → 'A bird can fly.'"
+  },
+  {
+    "id": 206,
+    "curriculum": "SKET6",
+    "unit": "Unit 10",
+    "type": "multiple_choice",
+    "question": "Do you like rice? Yes, ________ do. It's great.",
+    "options": [
+      "me",
+      "my",
+      "I",
+      "we"
+    ],
+    "correct": 2,
+    "explanation": "Trả lời câu hỏi 'Do you like...?' → 'Yes, I do.' Dùng 'I' (chủ ngữ)."
+  },
+  {
+    "id": 207,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "A soccer player ________ the ball.",
+    "options": [
+      "kick",
+      "kicks",
+      "kicking",
+      "kicked"
+    ],
+    "correct": 1,
+    "explanation": "Ngôi 3 số ít (a soccer player) hiện tại đơn → 'kick' + 's' = 'kicks'."
+  },
+  {
+    "id": 208,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "Are there any fries? No, there ________.",
+    "options": [
+      "isn't",
+      "aren't",
+      "is",
+      "are"
+    ],
+    "correct": 1,
+    "explanation": "Hỏi 'Are there any...?' → trả lời phủ định: 'No, there aren't.'"
+  },
+  {
+    "id": 209,
+    "curriculum": "SKET7",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "What is she doing? She's ________ the festival.",
+    "options": [
+      "enjoy",
+      "enjoys",
+      "enjoying",
+      "enjoyed"
+    ],
+    "correct": 2,
+    "explanation": "Thì hiện tại tiếp diễn: 'She's + V-ing'. 'She's enjoying the festival.'"
+  },
+  {
+    "id": 210,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "multiple_choice",
+    "question": "It's sunny today. ________ forget your hat!",
+    "options": [
+      "Don't",
+      "Wear",
+      "Not",
+      "Do"
+    ],
+    "correct": 0,
+    "explanation": "Khi trời nắng, cần đội mũ → 'Don't forget your hat!' = Đừng quên mũ!"
+  },
+  {
+    "id": 211,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "The bananas go ________ ship to Europe.",
+    "options": [
+      "on",
+      "by",
+      "in",
+      "at"
+    ],
+    "correct": 1,
+    "explanation": "Phương tiện giao thông dùng 'by': 'go by ship'. Đây là cách vận chuyển hàng hóa."
+  },
+  {
+    "id": 212,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "multiple_choice",
+    "question": "The teacher ________ happy. The students were so good!",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "are"
+    ],
+    "correct": 0,
+    "explanation": "'The teacher' là số ít → quá khứ đơn dùng 'was'."
+  },
+  {
+    "id": 213,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "Where is she from? She's from ________.",
+    "options": [
+      "Japan",
+      "Japanese",
+      "in Japan",
+      "from Japan"
+    ],
+    "correct": 0,
+    "explanation": "Trả lời 'She's from + tên nước'. 'Japan' là tên nước, không thêm 'in' hay 'from' nữa."
+  },
+  {
+    "id": 214,
+    "curriculum": "SKET6",
+    "unit": "Unit 7",
+    "type": "fill_in_blank",
+    "question": "There ________ a swimming pool in my town.",
+    "word_bank": [
+      "is",
+      "are",
+      "have",
+      "has"
+    ],
+    "correct": "is",
+    "explanation": "'A swimming pool' là số ít → 'There is a swimming pool.' Dùng 'is'."
+  },
+  {
+    "id": 215,
+    "curriculum": "SKET6",
+    "unit": "Unit 12",
+    "type": "fill_in_blank",
+    "question": "Let's play soccer. ________!",
+    "word_bank": [
+      "Great idea",
+      "No",
+      "Not good",
+      "Bad"
+    ],
+    "correct": "Great idea",
+    "explanation": "Đáp lại lời đề nghị tích cực: 'Great idea!' (Ý tưởng hay!)"
+  },
+  {
+    "id": 216,
+    "curriculum": "SKET7",
+    "unit": "Unit 2",
+    "type": "fill_in_blank",
+    "question": "Where do you eat dinner? ________ the dining room.",
+    "word_bank": [
+      "In",
+      "On",
+      "At",
+      "By"
+    ],
+    "correct": "In",
+    "explanation": "Ăn tối trong phòng ăn → 'In the dining room.' Dùng 'in' cho không gian kín."
+  },
+  {
+    "id": 217,
+    "curriculum": "SKET7",
+    "unit": "Unit 4",
+    "type": "fill_in_blank",
+    "question": "We're having ________ party.",
+    "word_bank": [
+      "a",
+      "an",
+      "the",
+      "X"
+    ],
+    "correct": "a",
+    "explanation": "Mạo từ không xác định 'a' trước danh từ số ít bắt đầu bằng phụ âm: 'a party'."
+  },
+  {
+    "id": 218,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "Does a giraffe have longer legs ________ a hippo?",
+    "word_bank": [
+      "than",
+      "then",
+      "as",
+      "like"
+    ],
+    "correct": "than",
+    "explanation": "Cấu trúc so sánh hơn: 'adj-er + than'. 'longer than'."
+  },
+  {
+    "id": 219,
+    "curriculum": "SKET8",
+    "unit": "Unit 4",
+    "type": "fill_in_blank",
+    "question": "Before, I was small. Now, I'm ________.",
+    "word_bank": [
+      "big",
+      "bigger",
+      "biggest",
+      "more big"
+    ],
+    "correct": "big",
+    "explanation": "Câu này không dùng so sánh mà mô tả trạng thái hiện tại → 'I'm big.' (to/lớn)."
+  },
+  {
+    "id": 220,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "fill_in_blank",
+    "question": "What's ________ name? My name's Akari.",
+    "word_bank": [
+      "your",
+      "you",
+      "yours",
+      "her"
+    ],
+    "correct": "your",
+    "explanation": "Trước danh từ 'name' dùng tính từ sở hữu 'your' (của bạn)."
+  },
+  {
+    "id": 221,
+    "curriculum": "SKET6",
+    "unit": "Unit 3",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "teacher",
+      "a",
+      "he's",
+      "not",
+      "is"
+    ],
+    "correct": [
+      "is",
+      "he",
+      "a",
+      "teacher",
+      "not"
+    ],
+    "explanation": "Câu hỏi: 'Is he a teacher?' Câu phủ định: 'He is not a teacher.' / 'He isn't a teacher.'"
+  },
+  {
+    "id": 222,
+    "curriculum": "SKET6",
+    "unit": "Unit 9",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "pants",
+      "these",
+      "your",
+      "are"
+    ],
+    "correct": [
+      "are",
+      "these",
+      "your",
+      "pants"
+    ],
+    "explanation": "Câu hỏi Yes/No với số nhiều: 'Are these your pants?' → Are + these + sở hữu + danh từ?"
+  },
+  {
+    "id": 223,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "any",
+      "is",
+      "juice",
+      "there"
+    ],
+    "correct": [
+      "is",
+      "there",
+      "any",
+      "juice"
+    ],
+    "explanation": "Câu hỏi với danh từ không đếm được: 'Is there any juice?' → Is + there + any + uncountable noun?"
+  },
+  {
+    "id": 224,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "school",
+      "when",
+      "do",
+      "get home from",
+      "you"
+    ],
+    "correct": [
+      "when",
+      "do",
+      "you",
+      "get home from",
+      "school"
+    ],
+    "explanation": "'When do you get home from school?' → When + do + you + verb phrase?"
+  },
+  {
+    "id": 225,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "reorder",
+    "question": "Sắp xếp thành câu đúng:",
+    "words": [
+      "from",
+      "we're",
+      "we",
+      "Spain",
+      "aren't",
+      "Poland",
+      "from",
+      "we're"
+    ],
+    "correct": [
+      "we're",
+      "not",
+      "from",
+      "Poland",
+      "we're",
+      "from",
+      "Spain"
+    ],
+    "explanation": "'We're not from Poland. We're from Spain.' Hoặc: 'We aren't from Poland. We're from Spain.'"
+  },
+  {
+    "id": 226,
+    "curriculum": "SKET6",
+    "unit": "Unit 4",
+    "type": "error_correction",
+    "question": "I have a grandma. His name is Mary.",
+    "options": [
+      "His → Her",
+      "a → an",
+      "have → has",
+      "name → names"
+    ],
+    "correct": 0,
+    "explanation": "Grandma là phụ nữ → dùng 'Her name', không dùng 'His name'."
+  },
+  {
+    "id": 227,
+    "curriculum": "SKET6",
+    "unit": "Unit 7",
+    "type": "error_correction",
+    "question": "There is houses next to the park.",
+    "options": [
+      "is → are",
+      "There → Here",
+      "next to → near",
+      "houses → house"
+    ],
+    "correct": 0,
+    "explanation": "'Houses' là số nhiều → 'There are houses next to the park.' Dùng 'are', không dùng 'is'."
+  },
+  {
+    "id": 228,
+    "curriculum": "SKET7",
+    "unit": "Unit 1",
+    "type": "error_correction",
+    "question": "A doctor don't drive a taxi.",
+    "options": [
+      "don't → doesn't",
+      "A doctor → Doctors",
+      "drive → drives",
+      "a → the"
+    ],
+    "correct": 0,
+    "explanation": "Ngôi 3 số ít (a doctor) phủ định hiện tại đơn: 'doesn't', không dùng 'don't'."
+  },
+  {
+    "id": 229,
+    "curriculum": "SKET7",
+    "unit": "Unit 4",
+    "type": "error_correction",
+    "question": "My dad are taking photos.",
+    "options": [
+      "are → is",
+      "taking → take",
+      "photos → photo",
+      "My → Mine"
+    ],
+    "correct": 0,
+    "explanation": "'My dad' là số ít → thì hiện tại tiếp diễn dùng 'is': 'My dad is taking photos.'"
+  },
+  {
+    "id": 230,
+    "curriculum": "SKET8",
+    "unit": "Unit 3",
+    "type": "error_correction",
+    "question": "There aren't any scarfs in the box.",
+    "options": [
+      "scarfs → scarves",
+      "aren't → isn't",
+      "any → some",
+      "in → on"
+    ],
+    "correct": 0,
+    "explanation": "Số nhiều của 'scarf' là 'scarves' (-f → -ves). Không viết 'scarfs'."
+  },
+  {
+    "id": 231,
+    "curriculum": "SKET6",
+    "unit": "Unit 11",
+    "type": "multiple_choice",
+    "question": "Are there fish in the water? Yes, ________.",
+    "options": [
+      "there is",
+      "there are",
+      "they are",
+      "it is"
+    ],
+    "correct": 1,
+    "explanation": "'Fish' có thể dùng làm số nhiều (fish = fish, không thêm s) → 'Yes, there are.'"
+  },
+  {
+    "id": 232,
+    "curriculum": "SKET6",
+    "unit": "Unit 11",
+    "type": "fill_in_blank",
+    "question": "She has a mask and ________.",
+    "word_bank": [
+      "flippers",
+      "flipper",
+      "a flippers",
+      "an flippers"
+    ],
+    "correct": "flippers",
+    "explanation": "'Flippers' (chân vịt bơi) thường dùng ở dạng số nhiều, không cần mạo từ."
+  },
+  {
+    "id": 233,
+    "curriculum": "SKET7",
+    "unit": "Unit 2",
+    "type": "multiple_choice",
+    "question": "What time do Bi and Messy go to bed? ________ go to bed at ten o'clock.",
+    "options": [
+      "He",
+      "She",
+      "They",
+      "It"
+    ],
+    "correct": 2,
+    "explanation": "Hai người (Bi và Messy) → đại từ số nhiều 'They'. 'They go to bed at ten o'clock.'"
+  },
+  {
+    "id": 234,
+    "curriculum": "SKET7",
+    "unit": "Unit 3",
+    "type": "multiple_choice",
+    "question": "There's ________ pear on the table.",
+    "options": [
+      "a",
+      "an",
+      "some",
+      "any"
+    ],
+    "correct": 1,
+    "explanation": "'Pear' bắt đầu bằng nguyên âm /p/ — thực ra 'p' là phụ âm, nhưng 'pear' bắt đầu bằng /p/ → dùng 'a pear'. Chú ý: 'a pear', không phải 'an pear'."
+  },
+  {
+    "id": 235,
+    "curriculum": "SKET8",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "Are you taking photos? No, ________ aren't.",
+    "options": [
+      "I",
+      "we",
+      "they",
+      "you"
+    ],
+    "correct": 1,
+    "explanation": "Câu hỏi 'Are you (số nhiều)...?' → trả lời bằng 'we'. 'No, we aren't.'"
+  },
+  {
+    "id": 236,
+    "curriculum": "SKET8",
+    "unit": "Unit 2",
+    "type": "multiple_choice",
+    "question": "________ on a scarf.",
+    "options": [
+      "Wear",
+      "Put",
+      "Don't put",
+      "Bring"
+    ],
+    "correct": 1,
+    "explanation": "Câu mệnh lệnh khuyên quàng khăn khi lạnh: 'Put on a scarf.' Phrasal verb 'put on' = mặc/đội/quàng."
+  },
+  {
+    "id": 237,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "multiple_choice",
+    "question": "What's the name of ________ mother?",
+    "options": [
+      "you",
+      "your",
+      "yours",
+      "her"
+    ],
+    "correct": 1,
+    "explanation": "Trước danh từ 'mother' dùng tính từ sở hữu 'your' (của bạn)."
+  },
+  {
+    "id": 238,
+    "curriculum": "SKET6",
+    "unit": "Review",
+    "type": "matching",
+    "question": "Nối câu hỏi với câu trả lời đúng:",
+    "pairs": [
+      {
+        "word": "Is this a pen?",
+        "meaning": "Yes, it is."
+      },
+      {
+        "word": "Are these your shoes?",
+        "meaning": "Yes, they are."
+      },
+      {
+        "word": "Is she a teacher?",
+        "meaning": "No, she isn't."
+      },
+      {
+        "word": "Can a duck talk?",
+        "meaning": "No, it can't."
+      }
+    ],
+    "explanation": "Luyện tập các cấu trúc câu hỏi và trả lời Yes/No trong SKET6."
+  },
+  {
+    "id": 239,
+    "curriculum": "SKET7",
+    "unit": "Review",
+    "type": "matching",
+    "question": "Nối câu hỏi với câu trả lời đúng:",
+    "pairs": [
+      {
+        "word": "What does she do?",
+        "meaning": "She's a doctor."
+      },
+      {
+        "word": "Are there any fries?",
+        "meaning": "No, there aren't."
+      },
+      {
+        "word": "What time do you get up?",
+        "meaning": "I get up at seven."
+      },
+      {
+        "word": "What is he doing?",
+        "meaning": "He's dancing."
+      }
+    ],
+    "explanation": "Ôn tập các mẫu hỏi-đáp quan trọng của SKET7: nghề nghiệp, some/any, giờ giấc, hiện tại tiếp diễn."
+  },
+  {
+    "id": 240,
+    "curriculum": "SKET9",
+    "unit": "Unit 1",
+    "type": "matching",
+    "question": "Nối tính từ sở hữu với ví dụ đúng:",
+    "pairs": [
+      {
+        "word": "his",
+        "meaning": "His name is Luca."
+      },
+      {
+        "word": "her",
+        "meaning": "Her favorite giraffe is Melvin."
+      },
+      {
+        "word": "our",
+        "meaning": "Our parents are from Germany."
+      },
+      {
+        "word": "their",
+        "meaning": "Their grandparents' house is in Germany."
+      }
+    ],
+    "explanation": "his=của anh ấy/ông ấy, her=của cô ấy, our=của chúng tôi, their=của họ."
   }
 ]
