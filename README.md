@@ -329,22 +329,39 @@ npm run preview    # Preview bản build
 - ✅ Thêm route `/history` vào `App.jsx`
 - ✅ Nút truy cập History từ trang chủ + màn hình kết quả
 
+### v1.0 — Hệ thống User + Supabase + AI Import (2026-06-09)
+- ✅ **Auth**: Đăng nhập / đăng ký qua Supabase, phân quyền `guest` / `student` / `admin`
+- ✅ **Navbar**: Top bar có avatar, dropdown menu, logout
+- ✅ **Questions lên DB**: Chuyển 40 câu từ JSON tĩnh → Supabase PostgreSQL
+- ✅ **Home fallback**: Tự động dùng JSON offline nếu Supabase không khả dụng
+- ✅ **Lưu kết quả server**: User đăng nhập → lưu `quiz_sessions` lên Supabase + hiện ☁️
+- ✅ **Student Dashboard**: Stats (lần thi, % TB, điểm cao nhất) + 3 lần thi gần nhất
+- ✅ **Student History**: Lịch sử thi từ server, bấm mở xem chi tiết từng câu sai
+- ✅ **Admin Dashboard**: Stats toàn hệ thống + 5 lần thi gần nhất của tất cả học viên
+- ✅ **Admin Students**: Danh sách học viên, gán bài (curriculum/unit), xóa bài gán
+- ✅ **Admin Questions**: Xem/filter/ẩn/xóa toàn bộ câu hỏi trong DB
+- ✅ **AI Import**: 3 bước (Cấu hình → Tài liệu → Duyệt & Lưu), hỗ trợ Gemini + DeepSeek
+- ✅ **Fix**: useRef chặn lưu 2 lần do React StrictMode
+
 ---
 
 ## 🔮 Kế hoạch tiếp theo (Backlog)
 
 ### Ưu tiên cao
-- [ ] Deploy lên GitHub Pages lần đầu
-- [ ] Thêm câu hỏi thực tế từ các Unit còn lại của SKET8
+- [ ] Deploy lên GitHub Pages
+- [ ] Student dashboard: hiển thị bài được gán từ `assignments` table
+- [ ] Giai đoạn 6: Join Request (học viên xin tham gia, admin duyệt)
 
 ### Ưu tiên trung bình
-- [ ] PWA — cài app lên điện thoại như app thật (thêm `manifest.json` + service worker)
+- [ ] Admin: xem lịch sử thi của từng học viên cụ thể
+- [ ] Student Explore: browse câu hỏi theo curriculum/unit
+- [ ] PWA — cài app lên điện thoại như app thật
 - [ ] Dark mode
-- [ ] Biểu đồ tiến độ học tập theo thời gian trong trang History
 
 ### Ưu tiên thấp / Tương lai
-- [ ] Thêm chương trình học mới (FRIENDS, i-Learn Smart Start...)
-- [ ] Âm thanh đọc câu hỏi (Text-to-Speech API)
+- [ ] Difficulty level filter khi làm bài
+- [ ] Biểu đồ tiến độ học tập theo thời gian
+- [ ] Text-to-Speech đọc câu hỏi
 - [ ] Chế độ thi có đếm ngược thời gian
 
 ---
@@ -352,10 +369,12 @@ npm run preview    # Preview bản build
 ## 📝 Ghi chú kỹ thuật
 
 - Dạng **Đọc hiểu, Viết tự do, Viết câu từ gợi ý** → không phù hợp chấm tự động, bỏ qua
-- Dạng **Viết số nhiều** → có thể làm dạng `fill_in_blank` hoặc `multiple_choice`
-- `localStorage` lưu trên **thiết bị người dùng** → xóa cache/data trình duyệt sẽ mất lịch sử
-- Khi thêm curriculum mới vào JSON, trang chủ tự động hiển thị filter mới (không cần sửa code)
+- `localStorage` lưu trên **thiết bị người dùng** → xóa cache/data trình duyệt sẽ mất lịch sử local
+- `quiz_sessions` trên Supabase → xem được trên mọi thiết bị khi đăng nhập
+- API key AI chỉ trong `sessionStorage` → mất khi đóng tab, không bao giờ lên server
+- Khi thêm curriculum mới qua AI Import, filter trang chủ tự cập nhật (không cần sửa code)
+- Chi tiết kỹ thuật nâng cấp v1.0: xem file `UPGRADE_v1.md`
 
 ---
 
-*Tài liệu cập nhật lần cuối: 2026-06-05 — v0.3*
+*Tài liệu cập nhật lần cuối: 2026-06-09 — v1.0*

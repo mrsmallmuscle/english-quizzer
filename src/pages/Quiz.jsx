@@ -7,13 +7,13 @@ export default function Quiz() {
   const { state } = useLocation()
   const navigate  = useNavigate()
   const questions = state?.questions || []
+  const quizMeta  = state?.quizMeta  || {}   // { curriculum, unit }
 
   const [currentIdx, setCurrentIdx] = useState(0)
   const [answers, setAnswers]       = useState([])
   const [answered, setAnswered]     = useState(null)
 
   useEffect(() => {
-    // Âm thanh báo bắt đầu bài
     const t = setTimeout(() => playStart(), 300)
     return () => clearTimeout(t)
   }, [])
@@ -34,7 +34,7 @@ export default function Quiz() {
   function handleNext() {
     const newAnswers = [...answers, { question: current, ...answered }]
     if (isLast) {
-      navigate('/result', { state: { answers: newAnswers, questions } })
+      navigate('/result', { state: { answers: newAnswers, questions, quizMeta } })
     } else {
       setAnswers(newAnswers)
       setCurrentIdx(currentIdx + 1)
@@ -44,7 +44,7 @@ export default function Quiz() {
 
   return (
     <div className="page-wrapper">
-      {/* Progress bar */}
+      {/* Progress */}
       <div className="progress-bar-track">
         <div className="progress-bar-fill" style={{ width: `${progress}%` }} />
       </div>
@@ -52,6 +52,9 @@ export default function Quiz() {
       {/* Header */}
       <div className="quiz-header">
         <button onClick={() => navigate('/')} className="btn-back">← Thoát</button>
+        <div className="text-xs text-center text-gray-400">
+          {quizMeta.curriculum && <span>{quizMeta.curriculum}{quizMeta.unit ? ` · ${quizMeta.unit}` : ''}</span>}
+        </div>
         <div className="quiz-score-live">
           ✅ {answers.filter(a => a.isCorrect).length} / {currentIdx}
         </div>
